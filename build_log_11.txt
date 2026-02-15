@@ -1,0 +1,2377 @@
+> Task :Animasu:preBuild UP-TO-DATE
+> Task :Animasu:preDebugBuild UP-TO-DATE
+> Task :Animasu:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Animasu:mergeDebugNativeLibs NO-SOURCE
+> Task :Animasu:stripDebugDebugSymbols NO-SOURCE
+> Task :Animasu:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Animasu:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Animasu:generateDebugResValues UP-TO-DATE
+> Task :Animasu:generateDebugResources UP-TO-DATE
+> Task :Animasu:packageDebugResources UP-TO-DATE
+> Task :Animasu:parseDebugLocalResources UP-TO-DATE
+> Task :Animasu:generateDebugRFile UP-TO-DATE
+> Task :Animasu:compileDebugKotlin UP-TO-DATE
+> Task :Animasu:extractDebugAnnotations UP-TO-DATE
+> Task :Animasu:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Animasu:javaPreCompileDebug UP-TO-DATE
+> Task :Animasu:compileDebugJavaWithJavac NO-SOURCE
+> Task :Animasu:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Animasu:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Animasu:mergeDebugShaders UP-TO-DATE
+> Task :Animasu:compileDebugShaders NO-SOURCE
+> Task :Animasu:generateDebugAssets UP-TO-DATE
+> Task :Animasu:packageDebugAssets UP-TO-DATE
+> Task :Animasu:prepareDebugArtProfile UP-TO-DATE
+> Task :Animasu:prepareLintJarForPublish UP-TO-DATE
+> Task :Animasu:processDebugManifest UP-TO-DATE
+> Task :Animasu:processDebugJavaRes UP-TO-DATE
+> Task :Animasu:mergeDebugJavaResource UP-TO-DATE
+> Task :Animasu:syncDebugLibJars UP-TO-DATE
+> Task :Animasu:writeDebugAarMetadata UP-TO-DATE
+> Task :Animasu:bundleDebugAar UP-TO-DATE
+> Task :Animasu:assembleDebug UP-TO-DATE
+> Task :Animasu:preReleaseBuild UP-TO-DATE
+> Task :Animasu:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Animasu:mergeReleaseNativeLibs NO-SOURCE
+> Task :Animasu:stripReleaseDebugSymbols NO-SOURCE
+> Task :Animasu:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Animasu:generateReleaseResValues UP-TO-DATE
+> Task :Animasu:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Animasu:generateReleaseResources UP-TO-DATE
+> Task :Animasu:packageReleaseResources UP-TO-DATE
+> Task :Animasu:parseReleaseLocalResources UP-TO-DATE
+> Task :Animasu:generateReleaseRFile UP-TO-DATE
+> Task :Animasu:compileReleaseKotlin UP-TO-DATE
+> Task :Animasu:extractReleaseAnnotations UP-TO-DATE
+> Task :Animasu:javaPreCompileRelease UP-TO-DATE
+> Task :Animasu:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Animasu:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Animasu:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Animasu:mergeReleaseShaders UP-TO-DATE
+> Task :Animasu:compileReleaseShaders NO-SOURCE
+> Task :Animasu:generateReleaseAssets UP-TO-DATE
+> Task :Animasu:packageReleaseAssets UP-TO-DATE
+> Task :Animasu:prepareReleaseArtProfile UP-TO-DATE
+> Task :Animasu:processReleaseManifest UP-TO-DATE
+> Task :Animasu:processReleaseJavaRes UP-TO-DATE
+> Task :Animasu:mergeReleaseJavaResource UP-TO-DATE
+> Task :Animasu:syncReleaseLibJars UP-TO-DATE
+> Task :Animasu:writeReleaseAarMetadata UP-TO-DATE
+> Task :Animasu:bundleReleaseAar UP-TO-DATE
+> Task :Animasu:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Animasu:mergeReleaseResources UP-TO-DATE
+> Task :Animasu:verifyReleaseResources UP-TO-DATE
+> Task :Animasu:assembleRelease UP-TO-DATE
+> Task :Animasu:assemble UP-TO-DATE
+> Task :Animasu:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Animasu:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Animasu:preDebugUnitTestBuild UP-TO-DATE
+> Task :Animasu:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Animasu:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Animasu:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Animasu:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Animasu:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Animasu:testDebugUnitTest NO-SOURCE
+> Task :Animasu:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Animasu:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Animasu:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Animasu:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Animasu:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Animasu:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Animasu:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Animasu:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Animasu:testReleaseUnitTest NO-SOURCE
+> Task :Animasu:test UP-TO-DATE
+> Task :Animasu:check
+> Task :Animasu:build
+> Task :AnimeIndo:preBuild UP-TO-DATE
+> Task :AnimeIndo:preDebugBuild UP-TO-DATE
+> Task :AnimeIndo:mergeDebugJniLibFolders UP-TO-DATE
+> Task :AnimeIndo:mergeDebugNativeLibs NO-SOURCE
+> Task :AnimeIndo:stripDebugDebugSymbols NO-SOURCE
+> Task :AnimeIndo:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :AnimeIndo:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :AnimeIndo:generateDebugResValues UP-TO-DATE
+> Task :AnimeIndo:generateDebugResources UP-TO-DATE
+> Task :AnimeIndo:packageDebugResources UP-TO-DATE
+> Task :AnimeIndo:parseDebugLocalResources UP-TO-DATE
+> Task :AnimeIndo:generateDebugRFile UP-TO-DATE
+> Task :AnimeIndo:compileDebugKotlin UP-TO-DATE
+> Task :AnimeIndo:extractDebugAnnotations UP-TO-DATE
+> Task :AnimeIndo:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :AnimeIndo:javaPreCompileDebug UP-TO-DATE
+> Task :AnimeIndo:compileDebugJavaWithJavac NO-SOURCE
+> Task :AnimeIndo:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :AnimeIndo:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :AnimeIndo:mergeDebugShaders UP-TO-DATE
+> Task :AnimeIndo:compileDebugShaders NO-SOURCE
+> Task :AnimeIndo:generateDebugAssets UP-TO-DATE
+> Task :AnimeIndo:packageDebugAssets UP-TO-DATE
+> Task :AnimeIndo:prepareDebugArtProfile UP-TO-DATE
+> Task :AnimeIndo:prepareLintJarForPublish UP-TO-DATE
+> Task :AnimeIndo:processDebugManifest UP-TO-DATE
+> Task :AnimeIndo:processDebugJavaRes UP-TO-DATE
+> Task :AnimeIndo:mergeDebugJavaResource UP-TO-DATE
+> Task :AnimeIndo:syncDebugLibJars UP-TO-DATE
+> Task :AnimeIndo:writeDebugAarMetadata UP-TO-DATE
+> Task :AnimeIndo:bundleDebugAar UP-TO-DATE
+> Task :AnimeIndo:assembleDebug UP-TO-DATE
+> Task :AnimeIndo:preReleaseBuild UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseNativeLibs NO-SOURCE
+> Task :AnimeIndo:stripReleaseDebugSymbols NO-SOURCE
+> Task :AnimeIndo:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :AnimeIndo:generateReleaseResValues UP-TO-DATE
+> Task :AnimeIndo:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :AnimeIndo:generateReleaseResources UP-TO-DATE
+> Task :AnimeIndo:packageReleaseResources UP-TO-DATE
+> Task :AnimeIndo:parseReleaseLocalResources UP-TO-DATE
+> Task :AnimeIndo:generateReleaseRFile UP-TO-DATE
+> Task :AnimeIndo:compileReleaseKotlin UP-TO-DATE
+> Task :AnimeIndo:extractReleaseAnnotations UP-TO-DATE
+> Task :AnimeIndo:javaPreCompileRelease UP-TO-DATE
+> Task :AnimeIndo:compileReleaseJavaWithJavac NO-SOURCE
+> Task :AnimeIndo:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseShaders UP-TO-DATE
+> Task :AnimeIndo:compileReleaseShaders NO-SOURCE
+> Task :AnimeIndo:generateReleaseAssets UP-TO-DATE
+> Task :AnimeIndo:packageReleaseAssets UP-TO-DATE
+> Task :AnimeIndo:prepareReleaseArtProfile UP-TO-DATE
+> Task :AnimeIndo:processReleaseManifest UP-TO-DATE
+> Task :AnimeIndo:processReleaseJavaRes UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseJavaResource UP-TO-DATE
+> Task :AnimeIndo:syncReleaseLibJars UP-TO-DATE
+> Task :AnimeIndo:writeReleaseAarMetadata UP-TO-DATE
+> Task :AnimeIndo:bundleReleaseAar UP-TO-DATE
+> Task :AnimeIndo:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :AnimeIndo:mergeReleaseResources UP-TO-DATE
+> Task :AnimeIndo:verifyReleaseResources UP-TO-DATE
+> Task :AnimeIndo:assembleRelease UP-TO-DATE
+> Task :AnimeIndo:assemble UP-TO-DATE
+> Task :AnimeIndo:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :AnimeIndo:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :AnimeIndo:preDebugUnitTestBuild UP-TO-DATE
+> Task :AnimeIndo:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :AnimeIndo:compileDebugUnitTestKotlin NO-SOURCE
+> Task :AnimeIndo:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :AnimeIndo:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :AnimeIndo:processDebugUnitTestJavaRes NO-SOURCE
+> Task :AnimeIndo:testDebugUnitTest NO-SOURCE
+> Task :AnimeIndo:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :AnimeIndo:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :AnimeIndo:preReleaseUnitTestBuild UP-TO-DATE
+> Task :AnimeIndo:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :AnimeIndo:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :AnimeIndo:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :AnimeIndo:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :AnimeIndo:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :AnimeIndo:testReleaseUnitTest NO-SOURCE
+> Task :AnimeIndo:test UP-TO-DATE
+> Task :AnimeIndo:check
+> Task :AnimeIndo:build
+> Task :AnimeSail:preBuild UP-TO-DATE
+> Task :AnimeSail:preDebugBuild UP-TO-DATE
+> Task :AnimeSail:mergeDebugJniLibFolders UP-TO-DATE
+> Task :AnimeSail:mergeDebugNativeLibs NO-SOURCE
+> Task :AnimeSail:stripDebugDebugSymbols NO-SOURCE
+> Task :AnimeSail:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :AnimeSail:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :AnimeSail:generateDebugResValues UP-TO-DATE
+> Task :AnimeSail:generateDebugResources UP-TO-DATE
+> Task :AnimeSail:packageDebugResources UP-TO-DATE
+> Task :AnimeSail:parseDebugLocalResources UP-TO-DATE
+> Task :AnimeSail:generateDebugRFile UP-TO-DATE
+> Task :AnimeSail:compileDebugKotlin UP-TO-DATE
+> Task :AnimeSail:extractDebugAnnotations UP-TO-DATE
+> Task :AnimeSail:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :AnimeSail:javaPreCompileDebug UP-TO-DATE
+> Task :AnimeSail:compileDebugJavaWithJavac NO-SOURCE
+> Task :AnimeSail:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :AnimeSail:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :AnimeSail:mergeDebugShaders UP-TO-DATE
+> Task :AnimeSail:compileDebugShaders NO-SOURCE
+> Task :AnimeSail:generateDebugAssets UP-TO-DATE
+> Task :AnimeSail:packageDebugAssets UP-TO-DATE
+> Task :AnimeSail:prepareDebugArtProfile UP-TO-DATE
+> Task :AnimeSail:prepareLintJarForPublish UP-TO-DATE
+> Task :AnimeSail:processDebugManifest UP-TO-DATE
+> Task :AnimeSail:processDebugJavaRes UP-TO-DATE
+> Task :AnimeSail:mergeDebugJavaResource UP-TO-DATE
+> Task :AnimeSail:syncDebugLibJars UP-TO-DATE
+> Task :AnimeSail:writeDebugAarMetadata UP-TO-DATE
+> Task :AnimeSail:bundleDebugAar UP-TO-DATE
+> Task :AnimeSail:assembleDebug UP-TO-DATE
+> Task :AnimeSail:preReleaseBuild UP-TO-DATE
+> Task :AnimeSail:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :AnimeSail:mergeReleaseNativeLibs NO-SOURCE
+> Task :AnimeSail:stripReleaseDebugSymbols NO-SOURCE
+> Task :AnimeSail:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :AnimeSail:generateReleaseResValues UP-TO-DATE
+> Task :AnimeSail:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :AnimeSail:generateReleaseResources UP-TO-DATE
+> Task :AnimeSail:packageReleaseResources UP-TO-DATE
+> Task :AnimeSail:parseReleaseLocalResources UP-TO-DATE
+> Task :AnimeSail:generateReleaseRFile UP-TO-DATE
+> Task :AnimeSail:compileReleaseKotlin UP-TO-DATE
+> Task :AnimeSail:extractReleaseAnnotations UP-TO-DATE
+> Task :AnimeSail:javaPreCompileRelease UP-TO-DATE
+> Task :AnimeSail:compileReleaseJavaWithJavac NO-SOURCE
+> Task :AnimeSail:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :AnimeSail:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :AnimeSail:mergeReleaseShaders UP-TO-DATE
+> Task :AnimeSail:compileReleaseShaders NO-SOURCE
+> Task :AnimeSail:generateReleaseAssets UP-TO-DATE
+> Task :AnimeSail:packageReleaseAssets UP-TO-DATE
+> Task :AnimeSail:prepareReleaseArtProfile UP-TO-DATE
+> Task :AnimeSail:processReleaseManifest UP-TO-DATE
+> Task :AnimeSail:processReleaseJavaRes UP-TO-DATE
+> Task :AnimeSail:mergeReleaseJavaResource UP-TO-DATE
+> Task :AnimeSail:syncReleaseLibJars UP-TO-DATE
+> Task :AnimeSail:writeReleaseAarMetadata UP-TO-DATE
+> Task :AnimeSail:bundleReleaseAar UP-TO-DATE
+> Task :AnimeSail:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :AnimeSail:mergeReleaseResources UP-TO-DATE
+> Task :AnimeSail:verifyReleaseResources UP-TO-DATE
+> Task :AnimeSail:assembleRelease UP-TO-DATE
+> Task :AnimeSail:assemble UP-TO-DATE
+> Task :AnimeSail:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :AnimeSail:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :AnimeSail:preDebugUnitTestBuild UP-TO-DATE
+> Task :AnimeSail:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :AnimeSail:compileDebugUnitTestKotlin NO-SOURCE
+> Task :AnimeSail:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :AnimeSail:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :AnimeSail:processDebugUnitTestJavaRes NO-SOURCE
+> Task :AnimeSail:testDebugUnitTest NO-SOURCE
+> Task :AnimeSail:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :AnimeSail:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :AnimeSail:preReleaseUnitTestBuild UP-TO-DATE
+> Task :AnimeSail:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :AnimeSail:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :AnimeSail:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :AnimeSail:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :AnimeSail:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :AnimeSail:testReleaseUnitTest NO-SOURCE
+> Task :AnimeSail:test UP-TO-DATE
+> Task :AnimeSail:check
+> Task :AnimeSail:build
+> Task :Anoboy:preBuild UP-TO-DATE
+> Task :Anoboy:preDebugBuild UP-TO-DATE
+> Task :Anoboy:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Anoboy:mergeDebugNativeLibs NO-SOURCE
+> Task :Anoboy:stripDebugDebugSymbols NO-SOURCE
+> Task :Anoboy:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Anoboy:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Anoboy:generateDebugResValues UP-TO-DATE
+> Task :Anoboy:generateDebugResources UP-TO-DATE
+> Task :Anoboy:packageDebugResources UP-TO-DATE
+> Task :Anoboy:parseDebugLocalResources UP-TO-DATE
+> Task :Anoboy:generateDebugRFile UP-TO-DATE
+> Task :Anoboy:compileDebugKotlin UP-TO-DATE
+> Task :Anoboy:extractDebugAnnotations UP-TO-DATE
+> Task :Anoboy:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Anoboy:javaPreCompileDebug UP-TO-DATE
+> Task :Anoboy:compileDebugJavaWithJavac NO-SOURCE
+> Task :Anoboy:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Anoboy:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Anoboy:mergeDebugShaders UP-TO-DATE
+> Task :Anoboy:compileDebugShaders NO-SOURCE
+> Task :Anoboy:generateDebugAssets UP-TO-DATE
+> Task :Anoboy:packageDebugAssets UP-TO-DATE
+> Task :Anoboy:prepareDebugArtProfile UP-TO-DATE
+> Task :Anoboy:prepareLintJarForPublish UP-TO-DATE
+> Task :Anoboy:processDebugManifest UP-TO-DATE
+> Task :Anoboy:processDebugJavaRes UP-TO-DATE
+> Task :Anoboy:mergeDebugJavaResource UP-TO-DATE
+> Task :Anoboy:syncDebugLibJars UP-TO-DATE
+> Task :Anoboy:writeDebugAarMetadata UP-TO-DATE
+> Task :Anoboy:bundleDebugAar UP-TO-DATE
+> Task :Anoboy:assembleDebug UP-TO-DATE
+> Task :Anoboy:preReleaseBuild UP-TO-DATE
+> Task :Anoboy:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Anoboy:mergeReleaseNativeLibs NO-SOURCE
+> Task :Anoboy:stripReleaseDebugSymbols NO-SOURCE
+> Task :Anoboy:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Anoboy:generateReleaseResValues UP-TO-DATE
+> Task :Anoboy:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Anoboy:generateReleaseResources UP-TO-DATE
+> Task :Anoboy:packageReleaseResources UP-TO-DATE
+> Task :Anoboy:parseReleaseLocalResources UP-TO-DATE
+> Task :Anoboy:generateReleaseRFile UP-TO-DATE
+> Task :Anoboy:compileReleaseKotlin UP-TO-DATE
+> Task :Anoboy:extractReleaseAnnotations UP-TO-DATE
+> Task :Anoboy:javaPreCompileRelease UP-TO-DATE
+> Task :Anoboy:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Anoboy:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Anoboy:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Anoboy:mergeReleaseShaders UP-TO-DATE
+> Task :Anoboy:compileReleaseShaders NO-SOURCE
+> Task :Anoboy:generateReleaseAssets UP-TO-DATE
+> Task :Anoboy:packageReleaseAssets UP-TO-DATE
+> Task :Anoboy:prepareReleaseArtProfile UP-TO-DATE
+> Task :Anoboy:processReleaseManifest UP-TO-DATE
+> Task :Anoboy:processReleaseJavaRes UP-TO-DATE
+> Task :Anoboy:mergeReleaseJavaResource UP-TO-DATE
+> Task :Anoboy:syncReleaseLibJars UP-TO-DATE
+> Task :Anoboy:writeReleaseAarMetadata UP-TO-DATE
+> Task :Anoboy:bundleReleaseAar UP-TO-DATE
+> Task :Anoboy:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Anoboy:mergeReleaseResources UP-TO-DATE
+> Task :Anoboy:verifyReleaseResources UP-TO-DATE
+> Task :Anoboy:assembleRelease UP-TO-DATE
+> Task :Anoboy:assemble UP-TO-DATE
+> Task :Anoboy:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Anoboy:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Anoboy:preDebugUnitTestBuild UP-TO-DATE
+> Task :Anoboy:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Anoboy:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Anoboy:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Anoboy:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Anoboy:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Anoboy:testDebugUnitTest NO-SOURCE
+> Task :Anoboy:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Anoboy:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Anoboy:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Anoboy:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Anoboy:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Anoboy:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Anoboy:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Anoboy:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Anoboy:testReleaseUnitTest NO-SOURCE
+> Task :Anoboy:test UP-TO-DATE
+> Task :Anoboy:check
+> Task :Anoboy:build
+> Task :Dramaid:preBuild UP-TO-DATE
+> Task :Dramaid:preDebugBuild UP-TO-DATE
+> Task :Dramaid:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Dramaid:mergeDebugNativeLibs NO-SOURCE
+> Task :Dramaid:stripDebugDebugSymbols NO-SOURCE
+> Task :Dramaid:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dramaid:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Dramaid:generateDebugResValues UP-TO-DATE
+> Task :Dramaid:generateDebugResources UP-TO-DATE
+> Task :Dramaid:packageDebugResources UP-TO-DATE
+> Task :Dramaid:parseDebugLocalResources UP-TO-DATE
+> Task :Dramaid:generateDebugRFile UP-TO-DATE
+> Task :Dramaid:compileDebugKotlin UP-TO-DATE
+> Task :Dramaid:extractDebugAnnotations UP-TO-DATE
+> Task :Dramaid:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Dramaid:javaPreCompileDebug UP-TO-DATE
+> Task :Dramaid:compileDebugJavaWithJavac NO-SOURCE
+> Task :Dramaid:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Dramaid:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Dramaid:mergeDebugShaders UP-TO-DATE
+> Task :Dramaid:compileDebugShaders NO-SOURCE
+> Task :Dramaid:generateDebugAssets UP-TO-DATE
+> Task :Dramaid:packageDebugAssets UP-TO-DATE
+> Task :Dramaid:prepareDebugArtProfile UP-TO-DATE
+> Task :Dramaid:prepareLintJarForPublish UP-TO-DATE
+> Task :Dramaid:processDebugManifest UP-TO-DATE
+> Task :Dramaid:processDebugJavaRes UP-TO-DATE
+> Task :Dramaid:mergeDebugJavaResource UP-TO-DATE
+> Task :Dramaid:syncDebugLibJars UP-TO-DATE
+> Task :Dramaid:writeDebugAarMetadata UP-TO-DATE
+> Task :Dramaid:bundleDebugAar UP-TO-DATE
+> Task :Dramaid:assembleDebug UP-TO-DATE
+> Task :Dramaid:preReleaseBuild UP-TO-DATE
+> Task :Dramaid:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Dramaid:mergeReleaseNativeLibs NO-SOURCE
+> Task :Dramaid:stripReleaseDebugSymbols NO-SOURCE
+> Task :Dramaid:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dramaid:generateReleaseResValues UP-TO-DATE
+> Task :Dramaid:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Dramaid:generateReleaseResources UP-TO-DATE
+> Task :Dramaid:packageReleaseResources UP-TO-DATE
+> Task :Dramaid:parseReleaseLocalResources UP-TO-DATE
+> Task :Dramaid:generateReleaseRFile UP-TO-DATE
+> Task :Dramaid:compileReleaseKotlin UP-TO-DATE
+> Task :Dramaid:extractReleaseAnnotations UP-TO-DATE
+> Task :Dramaid:javaPreCompileRelease UP-TO-DATE
+> Task :Dramaid:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Dramaid:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Dramaid:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Dramaid:mergeReleaseShaders UP-TO-DATE
+> Task :Dramaid:compileReleaseShaders NO-SOURCE
+> Task :Dramaid:generateReleaseAssets UP-TO-DATE
+> Task :Dramaid:packageReleaseAssets UP-TO-DATE
+> Task :Dramaid:prepareReleaseArtProfile UP-TO-DATE
+> Task :Dramaid:processReleaseManifest UP-TO-DATE
+> Task :Dramaid:processReleaseJavaRes UP-TO-DATE
+> Task :Dramaid:mergeReleaseJavaResource UP-TO-DATE
+> Task :Dramaid:syncReleaseLibJars UP-TO-DATE
+> Task :Dramaid:writeReleaseAarMetadata UP-TO-DATE
+> Task :Dramaid:bundleReleaseAar UP-TO-DATE
+> Task :Dramaid:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Dramaid:mergeReleaseResources UP-TO-DATE
+> Task :Dramaid:verifyReleaseResources UP-TO-DATE
+> Task :Dramaid:assembleRelease UP-TO-DATE
+> Task :Dramaid:assemble UP-TO-DATE
+> Task :Dramaid:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Dramaid:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Dramaid:preDebugUnitTestBuild UP-TO-DATE
+> Task :Dramaid:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Dramaid:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Dramaid:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Dramaid:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Dramaid:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Dramaid:testDebugUnitTest NO-SOURCE
+> Task :Dramaid:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Dramaid:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Dramaid:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Dramaid:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Dramaid:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Dramaid:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Dramaid:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Dramaid:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Dramaid:testReleaseUnitTest NO-SOURCE
+> Task :Dramaid:test UP-TO-DATE
+> Task :Dramaid:check
+> Task :Dramaid:build
+> Task :DramaSerial:preBuild UP-TO-DATE
+> Task :DramaSerial:preDebugBuild UP-TO-DATE
+> Task :DramaSerial:mergeDebugJniLibFolders UP-TO-DATE
+> Task :DramaSerial:mergeDebugNativeLibs NO-SOURCE
+> Task :DramaSerial:stripDebugDebugSymbols NO-SOURCE
+> Task :DramaSerial:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :DramaSerial:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :DramaSerial:generateDebugResValues UP-TO-DATE
+> Task :DramaSerial:generateDebugResources UP-TO-DATE
+> Task :DramaSerial:packageDebugResources UP-TO-DATE
+> Task :DramaSerial:parseDebugLocalResources UP-TO-DATE
+> Task :DramaSerial:generateDebugRFile UP-TO-DATE
+> Task :DramaSerial:compileDebugKotlin UP-TO-DATE
+> Task :DramaSerial:extractDebugAnnotations UP-TO-DATE
+> Task :DramaSerial:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :DramaSerial:javaPreCompileDebug UP-TO-DATE
+> Task :DramaSerial:compileDebugJavaWithJavac NO-SOURCE
+> Task :DramaSerial:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :DramaSerial:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :DramaSerial:mergeDebugShaders UP-TO-DATE
+> Task :DramaSerial:compileDebugShaders NO-SOURCE
+> Task :DramaSerial:generateDebugAssets UP-TO-DATE
+> Task :DramaSerial:packageDebugAssets UP-TO-DATE
+> Task :DramaSerial:prepareDebugArtProfile UP-TO-DATE
+> Task :DramaSerial:prepareLintJarForPublish UP-TO-DATE
+> Task :DramaSerial:processDebugManifest UP-TO-DATE
+> Task :DramaSerial:processDebugJavaRes UP-TO-DATE
+> Task :DramaSerial:mergeDebugJavaResource UP-TO-DATE
+> Task :DramaSerial:syncDebugLibJars UP-TO-DATE
+> Task :DramaSerial:writeDebugAarMetadata UP-TO-DATE
+> Task :DramaSerial:bundleDebugAar UP-TO-DATE
+> Task :DramaSerial:assembleDebug UP-TO-DATE
+> Task :DramaSerial:preReleaseBuild UP-TO-DATE
+> Task :DramaSerial:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :DramaSerial:mergeReleaseNativeLibs NO-SOURCE
+> Task :DramaSerial:stripReleaseDebugSymbols NO-SOURCE
+> Task :DramaSerial:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :DramaSerial:generateReleaseResValues UP-TO-DATE
+> Task :DramaSerial:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :DramaSerial:generateReleaseResources UP-TO-DATE
+> Task :DramaSerial:packageReleaseResources UP-TO-DATE
+> Task :DramaSerial:parseReleaseLocalResources UP-TO-DATE
+> Task :DramaSerial:generateReleaseRFile UP-TO-DATE
+> Task :DramaSerial:compileReleaseKotlin UP-TO-DATE
+> Task :DramaSerial:extractReleaseAnnotations UP-TO-DATE
+> Task :DramaSerial:javaPreCompileRelease UP-TO-DATE
+> Task :DramaSerial:compileReleaseJavaWithJavac NO-SOURCE
+> Task :DramaSerial:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :DramaSerial:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :DramaSerial:mergeReleaseShaders UP-TO-DATE
+> Task :DramaSerial:compileReleaseShaders NO-SOURCE
+> Task :DramaSerial:generateReleaseAssets UP-TO-DATE
+> Task :DramaSerial:packageReleaseAssets UP-TO-DATE
+> Task :DramaSerial:prepareReleaseArtProfile UP-TO-DATE
+> Task :DramaSerial:processReleaseManifest UP-TO-DATE
+> Task :DramaSerial:processReleaseJavaRes UP-TO-DATE
+> Task :DramaSerial:mergeReleaseJavaResource UP-TO-DATE
+> Task :DramaSerial:syncReleaseLibJars UP-TO-DATE
+> Task :DramaSerial:writeReleaseAarMetadata UP-TO-DATE
+> Task :DramaSerial:bundleReleaseAar UP-TO-DATE
+> Task :DramaSerial:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :DramaSerial:mergeReleaseResources UP-TO-DATE
+> Task :DramaSerial:verifyReleaseResources UP-TO-DATE
+> Task :DramaSerial:assembleRelease UP-TO-DATE
+> Task :DramaSerial:assemble UP-TO-DATE
+> Task :DramaSerial:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :DramaSerial:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :DramaSerial:preDebugUnitTestBuild UP-TO-DATE
+> Task :DramaSerial:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :DramaSerial:compileDebugUnitTestKotlin NO-SOURCE
+> Task :DramaSerial:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :DramaSerial:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :DramaSerial:processDebugUnitTestJavaRes NO-SOURCE
+> Task :DramaSerial:testDebugUnitTest NO-SOURCE
+> Task :DramaSerial:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :DramaSerial:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :DramaSerial:preReleaseUnitTestBuild UP-TO-DATE
+> Task :DramaSerial:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :DramaSerial:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :DramaSerial:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :DramaSerial:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :DramaSerial:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :DramaSerial:testReleaseUnitTest NO-SOURCE
+> Task :DramaSerial:test UP-TO-DATE
+> Task :DramaSerial:check
+> Task :DramaSerial:build
+> Task :Dubbindo:preBuild UP-TO-DATE
+> Task :Dubbindo:preDebugBuild UP-TO-DATE
+> Task :Dubbindo:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Dubbindo:mergeDebugNativeLibs NO-SOURCE
+> Task :Dubbindo:stripDebugDebugSymbols NO-SOURCE
+> Task :Dubbindo:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dubbindo:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Dubbindo:generateDebugResValues UP-TO-DATE
+> Task :Dubbindo:generateDebugResources UP-TO-DATE
+> Task :Dubbindo:packageDebugResources UP-TO-DATE
+> Task :Dubbindo:parseDebugLocalResources UP-TO-DATE
+> Task :Dubbindo:generateDebugRFile UP-TO-DATE
+> Task :Dubbindo:compileDebugKotlin UP-TO-DATE
+> Task :Dubbindo:extractDebugAnnotations UP-TO-DATE
+> Task :Dubbindo:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Dubbindo:javaPreCompileDebug UP-TO-DATE
+> Task :Dubbindo:compileDebugJavaWithJavac NO-SOURCE
+> Task :Dubbindo:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Dubbindo:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Dubbindo:mergeDebugShaders UP-TO-DATE
+> Task :Dubbindo:compileDebugShaders NO-SOURCE
+> Task :Dubbindo:generateDebugAssets UP-TO-DATE
+> Task :Dubbindo:packageDebugAssets UP-TO-DATE
+> Task :Dubbindo:prepareDebugArtProfile UP-TO-DATE
+> Task :Dubbindo:prepareLintJarForPublish UP-TO-DATE
+> Task :Dubbindo:processDebugManifest UP-TO-DATE
+> Task :Dubbindo:processDebugJavaRes UP-TO-DATE
+> Task :Dubbindo:mergeDebugJavaResource UP-TO-DATE
+> Task :Dubbindo:syncDebugLibJars UP-TO-DATE
+> Task :Dubbindo:writeDebugAarMetadata UP-TO-DATE
+> Task :Dubbindo:bundleDebugAar UP-TO-DATE
+> Task :Dubbindo:assembleDebug UP-TO-DATE
+> Task :Dubbindo:preReleaseBuild UP-TO-DATE
+> Task :Dubbindo:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Dubbindo:mergeReleaseNativeLibs NO-SOURCE
+> Task :Dubbindo:stripReleaseDebugSymbols NO-SOURCE
+> Task :Dubbindo:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dubbindo:generateReleaseResValues UP-TO-DATE
+> Task :Dubbindo:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Dubbindo:generateReleaseResources UP-TO-DATE
+> Task :Dubbindo:packageReleaseResources UP-TO-DATE
+> Task :Dubbindo:parseReleaseLocalResources UP-TO-DATE
+> Task :Dubbindo:generateReleaseRFile UP-TO-DATE
+> Task :Dubbindo:compileReleaseKotlin UP-TO-DATE
+> Task :Dubbindo:extractReleaseAnnotations UP-TO-DATE
+> Task :Dubbindo:javaPreCompileRelease UP-TO-DATE
+> Task :Dubbindo:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Dubbindo:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Dubbindo:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Dubbindo:mergeReleaseShaders UP-TO-DATE
+> Task :Dubbindo:compileReleaseShaders NO-SOURCE
+> Task :Dubbindo:generateReleaseAssets UP-TO-DATE
+> Task :Dubbindo:packageReleaseAssets UP-TO-DATE
+> Task :Dubbindo:prepareReleaseArtProfile UP-TO-DATE
+> Task :Dubbindo:processReleaseManifest UP-TO-DATE
+> Task :Dubbindo:processReleaseJavaRes UP-TO-DATE
+> Task :Dubbindo:mergeReleaseJavaResource UP-TO-DATE
+> Task :Dubbindo:syncReleaseLibJars UP-TO-DATE
+> Task :Dubbindo:writeReleaseAarMetadata UP-TO-DATE
+> Task :Dubbindo:bundleReleaseAar UP-TO-DATE
+> Task :Dubbindo:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Dubbindo:mergeReleaseResources UP-TO-DATE
+> Task :Dubbindo:verifyReleaseResources UP-TO-DATE
+> Task :Dubbindo:assembleRelease UP-TO-DATE
+> Task :Dubbindo:assemble UP-TO-DATE
+> Task :Dubbindo:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Dubbindo:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Dubbindo:preDebugUnitTestBuild UP-TO-DATE
+> Task :Dubbindo:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Dubbindo:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Dubbindo:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Dubbindo:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Dubbindo:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Dubbindo:testDebugUnitTest NO-SOURCE
+> Task :Dubbindo:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Dubbindo:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Dubbindo:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Dubbindo:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Dubbindo:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Dubbindo:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Dubbindo:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Dubbindo:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Dubbindo:testReleaseUnitTest NO-SOURCE
+> Task :Dubbindo:test UP-TO-DATE
+> Task :Dubbindo:check
+> Task :Dubbindo:build
+> Task :Dutamovie:preBuild UP-TO-DATE
+> Task :Dutamovie:preDebugBuild UP-TO-DATE
+> Task :Dutamovie:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Dutamovie:mergeDebugNativeLibs NO-SOURCE
+> Task :Dutamovie:stripDebugDebugSymbols NO-SOURCE
+> Task :Dutamovie:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dutamovie:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Dutamovie:generateDebugResValues UP-TO-DATE
+> Task :Dutamovie:generateDebugResources UP-TO-DATE
+> Task :Dutamovie:packageDebugResources UP-TO-DATE
+> Task :Dutamovie:parseDebugLocalResources UP-TO-DATE
+> Task :Dutamovie:generateDebugRFile UP-TO-DATE
+> Task :Dutamovie:compileDebugKotlin UP-TO-DATE
+> Task :Dutamovie:extractDebugAnnotations UP-TO-DATE
+> Task :Dutamovie:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Dutamovie:javaPreCompileDebug UP-TO-DATE
+> Task :Dutamovie:compileDebugJavaWithJavac NO-SOURCE
+> Task :Dutamovie:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Dutamovie:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Dutamovie:mergeDebugShaders UP-TO-DATE
+> Task :Dutamovie:compileDebugShaders NO-SOURCE
+> Task :Dutamovie:generateDebugAssets UP-TO-DATE
+> Task :Dutamovie:packageDebugAssets UP-TO-DATE
+> Task :Dutamovie:prepareDebugArtProfile UP-TO-DATE
+> Task :Dutamovie:prepareLintJarForPublish UP-TO-DATE
+> Task :Dutamovie:processDebugManifest UP-TO-DATE
+> Task :Dutamovie:processDebugJavaRes UP-TO-DATE
+> Task :Dutamovie:mergeDebugJavaResource UP-TO-DATE
+> Task :Dutamovie:syncDebugLibJars UP-TO-DATE
+> Task :Dutamovie:writeDebugAarMetadata UP-TO-DATE
+> Task :Dutamovie:bundleDebugAar UP-TO-DATE
+> Task :Dutamovie:assembleDebug UP-TO-DATE
+> Task :Dutamovie:preReleaseBuild UP-TO-DATE
+> Task :Dutamovie:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Dutamovie:mergeReleaseNativeLibs NO-SOURCE
+> Task :Dutamovie:stripReleaseDebugSymbols NO-SOURCE
+> Task :Dutamovie:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Dutamovie:generateReleaseResValues UP-TO-DATE
+> Task :Dutamovie:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Dutamovie:generateReleaseResources UP-TO-DATE
+> Task :Dutamovie:packageReleaseResources UP-TO-DATE
+> Task :Dutamovie:parseReleaseLocalResources UP-TO-DATE
+> Task :Dutamovie:generateReleaseRFile UP-TO-DATE
+> Task :Dutamovie:compileReleaseKotlin UP-TO-DATE
+> Task :Dutamovie:extractReleaseAnnotations UP-TO-DATE
+> Task :Dutamovie:javaPreCompileRelease UP-TO-DATE
+> Task :Dutamovie:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Dutamovie:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Dutamovie:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Dutamovie:mergeReleaseShaders UP-TO-DATE
+> Task :Dutamovie:compileReleaseShaders NO-SOURCE
+> Task :Dutamovie:generateReleaseAssets UP-TO-DATE
+> Task :Dutamovie:packageReleaseAssets UP-TO-DATE
+> Task :Dutamovie:prepareReleaseArtProfile UP-TO-DATE
+> Task :Dutamovie:processReleaseManifest UP-TO-DATE
+> Task :Dutamovie:processReleaseJavaRes UP-TO-DATE
+> Task :Dutamovie:mergeReleaseJavaResource UP-TO-DATE
+> Task :Dutamovie:syncReleaseLibJars UP-TO-DATE
+> Task :Dutamovie:writeReleaseAarMetadata UP-TO-DATE
+> Task :Dutamovie:bundleReleaseAar UP-TO-DATE
+> Task :Dutamovie:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Dutamovie:mergeReleaseResources UP-TO-DATE
+> Task :Dutamovie:verifyReleaseResources UP-TO-DATE
+> Task :Dutamovie:assembleRelease UP-TO-DATE
+> Task :Dutamovie:assemble UP-TO-DATE
+> Task :Dutamovie:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Dutamovie:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Dutamovie:preDebugUnitTestBuild UP-TO-DATE
+> Task :Dutamovie:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Dutamovie:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Dutamovie:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Dutamovie:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Dutamovie:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Dutamovie:testDebugUnitTest NO-SOURCE
+> Task :Dutamovie:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Dutamovie:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Dutamovie:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Dutamovie:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Dutamovie:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Dutamovie:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Dutamovie:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Dutamovie:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Dutamovie:testReleaseUnitTest NO-SOURCE
+> Task :Dutamovie:test UP-TO-DATE
+> Task :Dutamovie:check
+> Task :Dutamovie:build
+> Task :Gomunime:preBuild UP-TO-DATE
+> Task :Gomunime:preDebugBuild UP-TO-DATE
+> Task :Gomunime:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Gomunime:mergeDebugNativeLibs NO-SOURCE
+> Task :Gomunime:stripDebugDebugSymbols NO-SOURCE
+> Task :Gomunime:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Gomunime:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Gomunime:generateDebugResValues UP-TO-DATE
+> Task :Gomunime:generateDebugResources UP-TO-DATE
+> Task :Gomunime:packageDebugResources UP-TO-DATE
+> Task :Gomunime:parseDebugLocalResources UP-TO-DATE
+> Task :Gomunime:generateDebugRFile UP-TO-DATE
+> Task :Gomunime:compileDebugKotlin UP-TO-DATE
+> Task :Gomunime:extractDebugAnnotations UP-TO-DATE
+> Task :Gomunime:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Gomunime:javaPreCompileDebug UP-TO-DATE
+> Task :Gomunime:compileDebugJavaWithJavac NO-SOURCE
+> Task :Gomunime:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Gomunime:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Gomunime:mergeDebugShaders UP-TO-DATE
+> Task :Gomunime:compileDebugShaders NO-SOURCE
+> Task :Gomunime:generateDebugAssets UP-TO-DATE
+> Task :Gomunime:packageDebugAssets UP-TO-DATE
+> Task :Gomunime:prepareDebugArtProfile UP-TO-DATE
+> Task :Gomunime:prepareLintJarForPublish UP-TO-DATE
+> Task :Gomunime:processDebugManifest UP-TO-DATE
+> Task :Gomunime:processDebugJavaRes UP-TO-DATE
+> Task :Gomunime:mergeDebugJavaResource UP-TO-DATE
+> Task :Gomunime:syncDebugLibJars UP-TO-DATE
+> Task :Gomunime:writeDebugAarMetadata UP-TO-DATE
+> Task :Gomunime:bundleDebugAar UP-TO-DATE
+> Task :Gomunime:assembleDebug UP-TO-DATE
+> Task :Gomunime:preReleaseBuild UP-TO-DATE
+> Task :Gomunime:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Gomunime:mergeReleaseNativeLibs NO-SOURCE
+> Task :Gomunime:stripReleaseDebugSymbols NO-SOURCE
+> Task :Gomunime:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Gomunime:generateReleaseResValues UP-TO-DATE
+> Task :Gomunime:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Gomunime:generateReleaseResources UP-TO-DATE
+> Task :Gomunime:packageReleaseResources UP-TO-DATE
+> Task :Gomunime:parseReleaseLocalResources UP-TO-DATE
+> Task :Gomunime:generateReleaseRFile UP-TO-DATE
+> Task :Gomunime:compileReleaseKotlin UP-TO-DATE
+> Task :Gomunime:extractReleaseAnnotations UP-TO-DATE
+> Task :Gomunime:javaPreCompileRelease UP-TO-DATE
+> Task :Gomunime:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Gomunime:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Gomunime:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Gomunime:mergeReleaseShaders UP-TO-DATE
+> Task :Gomunime:compileReleaseShaders NO-SOURCE
+> Task :Gomunime:generateReleaseAssets UP-TO-DATE
+> Task :Gomunime:packageReleaseAssets UP-TO-DATE
+> Task :Gomunime:prepareReleaseArtProfile UP-TO-DATE
+> Task :Gomunime:processReleaseManifest UP-TO-DATE
+> Task :Gomunime:processReleaseJavaRes UP-TO-DATE
+> Task :Gomunime:mergeReleaseJavaResource UP-TO-DATE
+> Task :Gomunime:syncReleaseLibJars UP-TO-DATE
+> Task :Gomunime:writeReleaseAarMetadata UP-TO-DATE
+> Task :Gomunime:bundleReleaseAar UP-TO-DATE
+> Task :Gomunime:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Gomunime:mergeReleaseResources UP-TO-DATE
+> Task :Gomunime:verifyReleaseResources UP-TO-DATE
+> Task :Gomunime:assembleRelease UP-TO-DATE
+> Task :Gomunime:assemble UP-TO-DATE
+> Task :Gomunime:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Gomunime:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Gomunime:preDebugUnitTestBuild UP-TO-DATE
+> Task :Gomunime:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Gomunime:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Gomunime:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Gomunime:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Gomunime:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Gomunime:testDebugUnitTest NO-SOURCE
+> Task :Gomunime:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Gomunime:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Gomunime:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Gomunime:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Gomunime:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Gomunime:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Gomunime:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Gomunime:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Gomunime:testReleaseUnitTest NO-SOURCE
+> Task :Gomunime:test UP-TO-DATE
+> Task :Gomunime:check
+> Task :Gomunime:build
+> Task :Idlix:preBuild UP-TO-DATE
+> Task :Idlix:preDebugBuild UP-TO-DATE
+> Task :Idlix:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Idlix:mergeDebugNativeLibs NO-SOURCE
+> Task :Idlix:stripDebugDebugSymbols NO-SOURCE
+> Task :Idlix:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Idlix:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Idlix:generateDebugResValues UP-TO-DATE
+> Task :Idlix:generateDebugResources UP-TO-DATE
+> Task :Idlix:packageDebugResources UP-TO-DATE
+> Task :Idlix:parseDebugLocalResources UP-TO-DATE
+> Task :Idlix:generateDebugRFile UP-TO-DATE
+> Task :Idlix:compileDebugKotlin UP-TO-DATE
+> Task :Idlix:extractDebugAnnotations UP-TO-DATE
+> Task :Idlix:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Idlix:javaPreCompileDebug UP-TO-DATE
+> Task :Idlix:compileDebugJavaWithJavac NO-SOURCE
+> Task :Idlix:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Idlix:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Idlix:mergeDebugShaders UP-TO-DATE
+> Task :Idlix:compileDebugShaders NO-SOURCE
+> Task :Idlix:generateDebugAssets UP-TO-DATE
+> Task :Idlix:packageDebugAssets UP-TO-DATE
+> Task :Idlix:prepareDebugArtProfile UP-TO-DATE
+> Task :Idlix:prepareLintJarForPublish UP-TO-DATE
+> Task :Idlix:processDebugManifest UP-TO-DATE
+> Task :Idlix:processDebugJavaRes UP-TO-DATE
+> Task :Idlix:mergeDebugJavaResource UP-TO-DATE
+> Task :Idlix:syncDebugLibJars UP-TO-DATE
+> Task :Idlix:writeDebugAarMetadata UP-TO-DATE
+> Task :Idlix:bundleDebugAar UP-TO-DATE
+> Task :Idlix:assembleDebug UP-TO-DATE
+> Task :Idlix:preReleaseBuild UP-TO-DATE
+> Task :Idlix:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Idlix:mergeReleaseNativeLibs NO-SOURCE
+> Task :Idlix:stripReleaseDebugSymbols NO-SOURCE
+> Task :Idlix:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Idlix:generateReleaseResValues UP-TO-DATE
+> Task :Idlix:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Idlix:generateReleaseResources UP-TO-DATE
+> Task :Idlix:packageReleaseResources UP-TO-DATE
+> Task :Idlix:parseReleaseLocalResources UP-TO-DATE
+> Task :Idlix:generateReleaseRFile UP-TO-DATE
+> Task :Idlix:compileReleaseKotlin UP-TO-DATE
+> Task :Idlix:extractReleaseAnnotations UP-TO-DATE
+> Task :Idlix:javaPreCompileRelease UP-TO-DATE
+> Task :Idlix:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Idlix:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Idlix:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Idlix:mergeReleaseShaders UP-TO-DATE
+> Task :Idlix:compileReleaseShaders NO-SOURCE
+> Task :Idlix:generateReleaseAssets UP-TO-DATE
+> Task :Idlix:packageReleaseAssets UP-TO-DATE
+> Task :Idlix:prepareReleaseArtProfile UP-TO-DATE
+> Task :Idlix:processReleaseManifest UP-TO-DATE
+> Task :Idlix:processReleaseJavaRes UP-TO-DATE
+> Task :Idlix:mergeReleaseJavaResource UP-TO-DATE
+> Task :Idlix:syncReleaseLibJars UP-TO-DATE
+> Task :Idlix:writeReleaseAarMetadata UP-TO-DATE
+> Task :Idlix:bundleReleaseAar UP-TO-DATE
+> Task :Idlix:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Idlix:mergeReleaseResources UP-TO-DATE
+> Task :Idlix:verifyReleaseResources UP-TO-DATE
+> Task :Idlix:assembleRelease UP-TO-DATE
+> Task :Idlix:assemble UP-TO-DATE
+> Task :Idlix:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Idlix:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Idlix:preDebugUnitTestBuild UP-TO-DATE
+> Task :Idlix:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Idlix:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Idlix:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Idlix:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Idlix:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Idlix:testDebugUnitTest NO-SOURCE
+> Task :Idlix:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Idlix:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Idlix:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Idlix:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Idlix:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Idlix:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Idlix:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Idlix:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Idlix:testReleaseUnitTest NO-SOURCE
+> Task :Idlix:test UP-TO-DATE
+> Task :Idlix:check
+> Task :Idlix:build
+> Task :IndoTV:preBuild UP-TO-DATE
+> Task :IndoTV:preDebugBuild UP-TO-DATE
+> Task :IndoTV:mergeDebugJniLibFolders UP-TO-DATE
+> Task :IndoTV:mergeDebugNativeLibs NO-SOURCE
+> Task :IndoTV:stripDebugDebugSymbols NO-SOURCE
+> Task :IndoTV:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :IndoTV:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :IndoTV:generateDebugResValues UP-TO-DATE
+> Task :IndoTV:generateDebugResources UP-TO-DATE
+> Task :IndoTV:packageDebugResources UP-TO-DATE
+> Task :IndoTV:parseDebugLocalResources UP-TO-DATE
+> Task :IndoTV:generateDebugRFile UP-TO-DATE
+> Task :IndoTV:compileDebugKotlin UP-TO-DATE
+> Task :IndoTV:extractDebugAnnotations UP-TO-DATE
+> Task :IndoTV:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :IndoTV:javaPreCompileDebug UP-TO-DATE
+> Task :IndoTV:compileDebugJavaWithJavac NO-SOURCE
+> Task :IndoTV:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :IndoTV:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :IndoTV:mergeDebugShaders UP-TO-DATE
+> Task :IndoTV:compileDebugShaders NO-SOURCE
+> Task :IndoTV:generateDebugAssets UP-TO-DATE
+> Task :IndoTV:packageDebugAssets UP-TO-DATE
+> Task :IndoTV:prepareDebugArtProfile UP-TO-DATE
+> Task :IndoTV:prepareLintJarForPublish UP-TO-DATE
+> Task :IndoTV:processDebugManifest UP-TO-DATE
+> Task :IndoTV:processDebugJavaRes UP-TO-DATE
+> Task :IndoTV:mergeDebugJavaResource UP-TO-DATE
+> Task :IndoTV:syncDebugLibJars UP-TO-DATE
+> Task :IndoTV:writeDebugAarMetadata UP-TO-DATE
+> Task :IndoTV:bundleDebugAar UP-TO-DATE
+> Task :IndoTV:assembleDebug UP-TO-DATE
+> Task :IndoTV:preReleaseBuild UP-TO-DATE
+> Task :IndoTV:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :IndoTV:mergeReleaseNativeLibs NO-SOURCE
+> Task :IndoTV:stripReleaseDebugSymbols NO-SOURCE
+> Task :IndoTV:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :IndoTV:generateReleaseResValues UP-TO-DATE
+> Task :IndoTV:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :IndoTV:generateReleaseResources UP-TO-DATE
+> Task :IndoTV:packageReleaseResources UP-TO-DATE
+> Task :IndoTV:parseReleaseLocalResources UP-TO-DATE
+> Task :IndoTV:generateReleaseRFile UP-TO-DATE
+> Task :IndoTV:compileReleaseKotlin UP-TO-DATE
+> Task :IndoTV:extractReleaseAnnotations UP-TO-DATE
+> Task :IndoTV:javaPreCompileRelease UP-TO-DATE
+> Task :IndoTV:compileReleaseJavaWithJavac NO-SOURCE
+> Task :IndoTV:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :IndoTV:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :IndoTV:mergeReleaseShaders UP-TO-DATE
+> Task :IndoTV:compileReleaseShaders NO-SOURCE
+> Task :IndoTV:generateReleaseAssets UP-TO-DATE
+> Task :IndoTV:packageReleaseAssets UP-TO-DATE
+> Task :IndoTV:prepareReleaseArtProfile UP-TO-DATE
+> Task :IndoTV:processReleaseManifest UP-TO-DATE
+> Task :IndoTV:processReleaseJavaRes UP-TO-DATE
+> Task :IndoTV:mergeReleaseJavaResource UP-TO-DATE
+> Task :IndoTV:syncReleaseLibJars UP-TO-DATE
+> Task :IndoTV:writeReleaseAarMetadata UP-TO-DATE
+> Task :IndoTV:bundleReleaseAar UP-TO-DATE
+> Task :IndoTV:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :IndoTV:mergeReleaseResources UP-TO-DATE
+> Task :IndoTV:verifyReleaseResources UP-TO-DATE
+> Task :IndoTV:assembleRelease UP-TO-DATE
+> Task :IndoTV:assemble UP-TO-DATE
+> Task :IndoTV:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :IndoTV:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :IndoTV:preDebugUnitTestBuild UP-TO-DATE
+> Task :IndoTV:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :IndoTV:compileDebugUnitTestKotlin NO-SOURCE
+> Task :IndoTV:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :IndoTV:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :IndoTV:processDebugUnitTestJavaRes NO-SOURCE
+> Task :IndoTV:testDebugUnitTest NO-SOURCE
+> Task :IndoTV:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :IndoTV:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :IndoTV:preReleaseUnitTestBuild UP-TO-DATE
+> Task :IndoTV:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :IndoTV:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :IndoTV:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :IndoTV:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :IndoTV:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :IndoTV:testReleaseUnitTest NO-SOURCE
+> Task :IndoTV:test UP-TO-DATE
+> Task :IndoTV:check
+> Task :IndoTV:build
+> Task :Kuramanime:preBuild UP-TO-DATE
+> Task :Kuramanime:preDebugBuild UP-TO-DATE
+> Task :Kuramanime:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Kuramanime:mergeDebugNativeLibs NO-SOURCE
+> Task :Kuramanime:stripDebugDebugSymbols NO-SOURCE
+> Task :Kuramanime:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Kuramanime:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Kuramanime:generateDebugResValues UP-TO-DATE
+> Task :Kuramanime:generateDebugResources UP-TO-DATE
+> Task :Kuramanime:packageDebugResources UP-TO-DATE
+> Task :Kuramanime:parseDebugLocalResources UP-TO-DATE
+> Task :Kuramanime:generateDebugRFile UP-TO-DATE
+> Task :Kuramanime:compileDebugKotlin UP-TO-DATE
+> Task :Kuramanime:extractDebugAnnotations UP-TO-DATE
+> Task :Kuramanime:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Kuramanime:javaPreCompileDebug UP-TO-DATE
+> Task :Kuramanime:compileDebugJavaWithJavac NO-SOURCE
+> Task :Kuramanime:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Kuramanime:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Kuramanime:mergeDebugShaders UP-TO-DATE
+> Task :Kuramanime:compileDebugShaders NO-SOURCE
+> Task :Kuramanime:generateDebugAssets UP-TO-DATE
+> Task :Kuramanime:packageDebugAssets UP-TO-DATE
+> Task :Kuramanime:prepareDebugArtProfile UP-TO-DATE
+> Task :Kuramanime:prepareLintJarForPublish UP-TO-DATE
+> Task :Kuramanime:processDebugManifest UP-TO-DATE
+> Task :Kuramanime:processDebugJavaRes UP-TO-DATE
+> Task :Kuramanime:mergeDebugJavaResource UP-TO-DATE
+> Task :Kuramanime:syncDebugLibJars UP-TO-DATE
+> Task :Kuramanime:writeDebugAarMetadata UP-TO-DATE
+> Task :Kuramanime:bundleDebugAar UP-TO-DATE
+> Task :Kuramanime:assembleDebug UP-TO-DATE
+> Task :Kuramanime:preReleaseBuild UP-TO-DATE
+> Task :Kuramanime:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Kuramanime:mergeReleaseNativeLibs NO-SOURCE
+> Task :Kuramanime:stripReleaseDebugSymbols NO-SOURCE
+> Task :Kuramanime:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Kuramanime:generateReleaseResValues UP-TO-DATE
+> Task :Kuramanime:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Kuramanime:generateReleaseResources UP-TO-DATE
+> Task :Kuramanime:packageReleaseResources UP-TO-DATE
+> Task :Kuramanime:parseReleaseLocalResources UP-TO-DATE
+> Task :Kuramanime:generateReleaseRFile UP-TO-DATE
+> Task :Kuramanime:compileReleaseKotlin UP-TO-DATE
+> Task :Kuramanime:extractReleaseAnnotations UP-TO-DATE
+> Task :Kuramanime:javaPreCompileRelease UP-TO-DATE
+> Task :Kuramanime:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Kuramanime:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Kuramanime:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Kuramanime:mergeReleaseShaders UP-TO-DATE
+> Task :Kuramanime:compileReleaseShaders NO-SOURCE
+> Task :Kuramanime:generateReleaseAssets UP-TO-DATE
+> Task :Kuramanime:packageReleaseAssets UP-TO-DATE
+> Task :Kuramanime:prepareReleaseArtProfile UP-TO-DATE
+> Task :Kuramanime:processReleaseManifest UP-TO-DATE
+> Task :Kuramanime:processReleaseJavaRes UP-TO-DATE
+> Task :Kuramanime:mergeReleaseJavaResource UP-TO-DATE
+> Task :Kuramanime:syncReleaseLibJars UP-TO-DATE
+> Task :Kuramanime:writeReleaseAarMetadata UP-TO-DATE
+> Task :Kuramanime:bundleReleaseAar UP-TO-DATE
+> Task :Kuramanime:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Kuramanime:mergeReleaseResources UP-TO-DATE
+> Task :Kuramanime:verifyReleaseResources UP-TO-DATE
+> Task :Kuramanime:assembleRelease UP-TO-DATE
+> Task :Kuramanime:assemble UP-TO-DATE
+> Task :Kuramanime:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Kuramanime:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Kuramanime:preDebugUnitTestBuild UP-TO-DATE
+> Task :Kuramanime:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Kuramanime:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Kuramanime:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Kuramanime:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Kuramanime:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Kuramanime:testDebugUnitTest NO-SOURCE
+> Task :Kuramanime:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Kuramanime:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Kuramanime:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Kuramanime:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Kuramanime:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Kuramanime:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Kuramanime:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Kuramanime:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Kuramanime:testReleaseUnitTest NO-SOURCE
+> Task :Kuramanime:test UP-TO-DATE
+> Task :Kuramanime:check
+> Task :Kuramanime:build
+> Task :Kuronime:preBuild UP-TO-DATE
+> Task :Kuronime:preDebugBuild UP-TO-DATE
+> Task :Kuronime:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Kuronime:mergeDebugNativeLibs NO-SOURCE
+> Task :Kuronime:stripDebugDebugSymbols NO-SOURCE
+> Task :Kuronime:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Kuronime:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Kuronime:generateDebugResValues UP-TO-DATE
+> Task :Kuronime:generateDebugResources UP-TO-DATE
+> Task :Kuronime:packageDebugResources UP-TO-DATE
+> Task :Kuronime:parseDebugLocalResources UP-TO-DATE
+> Task :Kuronime:generateDebugRFile UP-TO-DATE
+> Task :Kuronime:compileDebugKotlin UP-TO-DATE
+> Task :Kuronime:extractDebugAnnotations UP-TO-DATE
+> Task :Kuronime:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Kuronime:javaPreCompileDebug UP-TO-DATE
+> Task :Kuronime:compileDebugJavaWithJavac NO-SOURCE
+> Task :Kuronime:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :Kuronime:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :Kuronime:mergeDebugShaders UP-TO-DATE
+> Task :Kuronime:compileDebugShaders NO-SOURCE
+> Task :Kuronime:generateDebugAssets UP-TO-DATE
+> Task :Kuronime:packageDebugAssets UP-TO-DATE
+> Task :Kuronime:prepareDebugArtProfile UP-TO-DATE
+> Task :Kuronime:prepareLintJarForPublish UP-TO-DATE
+> Task :Kuronime:processDebugManifest UP-TO-DATE
+> Task :Kuronime:processDebugJavaRes UP-TO-DATE
+> Task :Kuronime:mergeDebugJavaResource UP-TO-DATE
+> Task :Kuronime:syncDebugLibJars UP-TO-DATE
+> Task :Kuronime:writeDebugAarMetadata UP-TO-DATE
+> Task :Kuronime:bundleDebugAar UP-TO-DATE
+> Task :Kuronime:assembleDebug UP-TO-DATE
+> Task :Kuronime:preReleaseBuild UP-TO-DATE
+> Task :Kuronime:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Kuronime:mergeReleaseNativeLibs NO-SOURCE
+> Task :Kuronime:stripReleaseDebugSymbols NO-SOURCE
+> Task :Kuronime:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Kuronime:generateReleaseResValues UP-TO-DATE
+> Task :Kuronime:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Kuronime:generateReleaseResources UP-TO-DATE
+> Task :Kuronime:packageReleaseResources UP-TO-DATE
+> Task :Kuronime:parseReleaseLocalResources UP-TO-DATE
+> Task :Kuronime:generateReleaseRFile UP-TO-DATE
+> Task :Kuronime:compileReleaseKotlin UP-TO-DATE
+> Task :Kuronime:extractReleaseAnnotations UP-TO-DATE
+> Task :Kuronime:javaPreCompileRelease UP-TO-DATE
+> Task :Kuronime:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Kuronime:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :Kuronime:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :Kuronime:mergeReleaseShaders UP-TO-DATE
+> Task :Kuronime:compileReleaseShaders NO-SOURCE
+> Task :Kuronime:generateReleaseAssets UP-TO-DATE
+> Task :Kuronime:packageReleaseAssets UP-TO-DATE
+> Task :Kuronime:prepareReleaseArtProfile UP-TO-DATE
+> Task :Kuronime:processReleaseManifest UP-TO-DATE
+> Task :Kuronime:processReleaseJavaRes UP-TO-DATE
+> Task :Kuronime:mergeReleaseJavaResource UP-TO-DATE
+> Task :Kuronime:syncReleaseLibJars UP-TO-DATE
+> Task :Kuronime:writeReleaseAarMetadata UP-TO-DATE
+> Task :Kuronime:bundleReleaseAar UP-TO-DATE
+> Task :Kuronime:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Kuronime:mergeReleaseResources UP-TO-DATE
+> Task :Kuronime:verifyReleaseResources UP-TO-DATE
+> Task :Kuronime:assembleRelease UP-TO-DATE
+> Task :Kuronime:assemble UP-TO-DATE
+> Task :Kuronime:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :Kuronime:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :Kuronime:preDebugUnitTestBuild UP-TO-DATE
+> Task :Kuronime:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Kuronime:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Kuronime:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Kuronime:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Kuronime:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Kuronime:testDebugUnitTest NO-SOURCE
+> Task :Kuronime:bundleLibRuntimeToJarRelease UP-TO-DATE
+> Task :Kuronime:bundleLibCompileToJarRelease UP-TO-DATE
+> Task :Kuronime:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Kuronime:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Kuronime:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Kuronime:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Kuronime:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Kuronime:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Kuronime:testReleaseUnitTest NO-SOURCE
+> Task :Kuronime:test UP-TO-DATE
+> Task :Kuronime:check
+> Task :Kuronime:build
+> Task :LayarKaca:preBuild UP-TO-DATE
+> Task :LayarKaca:preDebugBuild UP-TO-DATE
+> Task :LayarKaca:mergeDebugJniLibFolders UP-TO-DATE
+> Task :LayarKaca:mergeDebugNativeLibs NO-SOURCE
+> Task :LayarKaca:stripDebugDebugSymbols NO-SOURCE
+> Task :LayarKaca:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :LayarKaca:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :LayarKaca:generateDebugResValues UP-TO-DATE
+> Task :LayarKaca:generateDebugResources UP-TO-DATE
+> Task :LayarKaca:packageDebugResources UP-TO-DATE
+> Task :LayarKaca:parseDebugLocalResources UP-TO-DATE
+> Task :LayarKaca:generateDebugRFile UP-TO-DATE
+> Task :LayarKaca:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :LayarKaca:javaPreCompileDebug UP-TO-DATE
+> Task :LayarKaca:mergeDebugShaders UP-TO-DATE
+> Task :LayarKaca:compileDebugShaders NO-SOURCE
+> Task :LayarKaca:generateDebugAssets UP-TO-DATE
+> Task :LayarKaca:packageDebugAssets UP-TO-DATE
+> Task :LayarKaca:prepareDebugArtProfile UP-TO-DATE
+> Task :LayarKaca:prepareLintJarForPublish UP-TO-DATE
+> Task :LayarKaca:processDebugManifest UP-TO-DATE
+> Task :LayarKaca:writeDebugAarMetadata UP-TO-DATE
+> Task :LayarKaca:preReleaseBuild UP-TO-DATE
+> Task :LayarKaca:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :LayarKaca:mergeReleaseNativeLibs NO-SOURCE
+> Task :LayarKaca:stripReleaseDebugSymbols NO-SOURCE
+> Task :LayarKaca:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :LayarKaca:generateReleaseResValues UP-TO-DATE
+> Task :LayarKaca:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :LayarKaca:generateReleaseResources UP-TO-DATE
+> Task :LayarKaca:packageReleaseResources UP-TO-DATE
+> Task :LayarKaca:parseReleaseLocalResources UP-TO-DATE
+> Task :LayarKaca:generateReleaseRFile UP-TO-DATE
+> Task :LayarKaca:javaPreCompileRelease UP-TO-DATE
+> Task :LayarKaca:mergeReleaseShaders UP-TO-DATE
+> Task :LayarKaca:compileReleaseShaders NO-SOURCE
+> Task :LayarKaca:generateReleaseAssets UP-TO-DATE
+> Task :LayarKaca:packageReleaseAssets UP-TO-DATE
+> Task :LayarKaca:prepareReleaseArtProfile UP-TO-DATE
+> Task :LayarKaca:processReleaseManifest UP-TO-DATE
+> Task :LayarKaca:writeReleaseAarMetadata UP-TO-DATE
+> Task :LayarKaca:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :LayarKaca:mergeReleaseResources UP-TO-DATE
+> Task :LayarKaca:verifyReleaseResources UP-TO-DATE
+> Task :LayarKaca:preDebugUnitTestBuild UP-TO-DATE
+> Task :LayarKaca:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :LayarKaca:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :LayarKaca:preReleaseUnitTestBuild UP-TO-DATE
+> Task :LayarKaca:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :LayarKaca:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Minioppai:preBuild UP-TO-DATE
+> Task :Minioppai:preDebugBuild UP-TO-DATE
+> Task :Minioppai:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Minioppai:mergeDebugNativeLibs NO-SOURCE
+> Task :Minioppai:stripDebugDebugSymbols NO-SOURCE
+> Task :Minioppai:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Minioppai:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Minioppai:generateDebugResValues UP-TO-DATE
+> Task :Minioppai:generateDebugResources UP-TO-DATE
+> Task :Minioppai:packageDebugResources UP-TO-DATE
+> Task :Minioppai:parseDebugLocalResources UP-TO-DATE
+> Task :Minioppai:generateDebugRFile UP-TO-DATE
+> Task :Minioppai:compileDebugKotlin UP-TO-DATE
+> Task :Minioppai:extractDebugAnnotations
+> Task :Minioppai:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Minioppai:javaPreCompileDebug UP-TO-DATE
+> Task :Minioppai:compileDebugJavaWithJavac NO-SOURCE
+> Task :Minioppai:mergeDebugGeneratedProguardFiles
+> Task :Minioppai:mergeDebugConsumerProguardFiles
+> Task :Minioppai:mergeDebugShaders UP-TO-DATE
+> Task :Minioppai:compileDebugShaders NO-SOURCE
+> Task :Minioppai:generateDebugAssets UP-TO-DATE
+> Task :Minioppai:packageDebugAssets UP-TO-DATE
+> Task :Minioppai:prepareDebugArtProfile UP-TO-DATE
+> Task :Minioppai:prepareLintJarForPublish UP-TO-DATE
+> Task :Minioppai:processDebugManifest UP-TO-DATE
+> Task :Minioppai:processDebugJavaRes
+> Task :Minioppai:writeDebugAarMetadata UP-TO-DATE
+> Task :Minioppai:preReleaseBuild UP-TO-DATE
+> Task :Minioppai:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Minioppai:mergeReleaseNativeLibs NO-SOURCE
+> Task :Minioppai:stripReleaseDebugSymbols NO-SOURCE
+> Task :Minioppai:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Minioppai:generateReleaseResValues UP-TO-DATE
+> Task :Minioppai:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Minioppai:generateReleaseResources UP-TO-DATE
+> Task :Minioppai:packageReleaseResources UP-TO-DATE
+> Task :Minioppai:parseReleaseLocalResources UP-TO-DATE
+> Task :Minioppai:generateReleaseRFile UP-TO-DATE
+> Task :Minioppai:compileReleaseKotlin UP-TO-DATE
+> Task :Minioppai:extractReleaseAnnotations
+> Task :Minioppai:javaPreCompileRelease UP-TO-DATE
+> Task :Minioppai:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Minioppai:mergeReleaseGeneratedProguardFiles
+> Task :Minioppai:mergeReleaseConsumerProguardFiles
+> Task :Minioppai:mergeReleaseShaders UP-TO-DATE
+> Task :Minioppai:compileReleaseShaders NO-SOURCE
+> Task :Minioppai:generateReleaseAssets UP-TO-DATE
+> Task :Minioppai:packageReleaseAssets UP-TO-DATE
+> Task :Minioppai:prepareReleaseArtProfile UP-TO-DATE
+> Task :Minioppai:processReleaseManifest UP-TO-DATE
+> Task :Minioppai:processReleaseJavaRes
+> Task :Minioppai:writeReleaseAarMetadata UP-TO-DATE
+> Task :Minioppai:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Minioppai:mergeReleaseResources UP-TO-DATE
+> Task :Minioppai:verifyReleaseResources UP-TO-DATE
+> Task :Minioppai:preDebugUnitTestBuild UP-TO-DATE
+> Task :Minioppai:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Minioppai:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Minioppai:mergeDebugJavaResource
+> Task :Minioppai:mergeReleaseJavaResource
+> Task :Minioppai:bundleLibRuntimeToJarRelease
+> Task :Minioppai:bundleLibRuntimeToJarDebug
+> Task :Minioppai:bundleLibCompileToJarDebug
+> Task :Minioppai:syncDebugLibJars
+> Task :Minioppai:bundleDebugAar
+> Task :Minioppai:assembleDebug
+> Task :Minioppai:syncReleaseLibJars
+> Task :Minioppai:bundleReleaseAar
+> Task :Minioppai:assembleRelease
+> Task :Minioppai:assemble
+> Task :Minioppai:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Minioppai:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Minioppai:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Minioppai:testDebugUnitTest NO-SOURCE
+> Task :Minioppai:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Minioppai:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Minioppai:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Nekopoi:preBuild UP-TO-DATE
+> Task :Nekopoi:preDebugBuild UP-TO-DATE
+> Task :Nekopoi:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Minioppai:bundleLibCompileToJarRelease
+> Task :Nekopoi:mergeDebugNativeLibs NO-SOURCE
+> Task :Minioppai:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Minioppai:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Minioppai:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Minioppai:testReleaseUnitTest NO-SOURCE
+> Task :Minioppai:test UP-TO-DATE
+> Task :Minioppai:check
+> Task :Minioppai:build
+> Task :Nekopoi:stripDebugDebugSymbols NO-SOURCE
+> Task :Nekopoi:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nekopoi:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Nekopoi:generateDebugResValues UP-TO-DATE
+> Task :Nekopoi:generateDebugResources UP-TO-DATE
+> Task :Nekopoi:packageDebugResources UP-TO-DATE
+> Task :Nekopoi:parseDebugLocalResources UP-TO-DATE
+> Task :Nekopoi:generateDebugRFile UP-TO-DATE
+> Task :Nekopoi:compileDebugKotlin UP-TO-DATE
+> Task :Nekopoi:extractDebugAnnotations
+> Task :Nekopoi:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Nekopoi:javaPreCompileDebug UP-TO-DATE
+> Task :Nekopoi:compileDebugJavaWithJavac NO-SOURCE
+> Task :Nekopoi:mergeDebugGeneratedProguardFiles
+> Task :Nekopoi:mergeDebugConsumerProguardFiles
+> Task :Nekopoi:mergeDebugShaders UP-TO-DATE
+> Task :Nekopoi:compileDebugShaders NO-SOURCE
+> Task :Nekopoi:generateDebugAssets UP-TO-DATE
+> Task :Nekopoi:packageDebugAssets UP-TO-DATE
+> Task :Nekopoi:prepareDebugArtProfile UP-TO-DATE
+> Task :Nekopoi:prepareLintJarForPublish UP-TO-DATE
+> Task :Nekopoi:processDebugManifest UP-TO-DATE
+> Task :Nekopoi:processDebugJavaRes
+> Task :Nekopoi:writeDebugAarMetadata UP-TO-DATE
+> Task :Nekopoi:preReleaseBuild UP-TO-DATE
+> Task :Nekopoi:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Nekopoi:mergeReleaseNativeLibs NO-SOURCE
+> Task :Nekopoi:stripReleaseDebugSymbols NO-SOURCE
+> Task :Nekopoi:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nekopoi:generateReleaseResValues UP-TO-DATE
+> Task :Nekopoi:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Nekopoi:generateReleaseResources UP-TO-DATE
+> Task :Nekopoi:mergeDebugJavaResource
+> Task :Nekopoi:packageReleaseResources UP-TO-DATE
+> Task :Nekopoi:syncDebugLibJars
+> Task :Nekopoi:bundleDebugAar
+> Task :Nekopoi:assembleDebug
+> Task :Nekopoi:parseReleaseLocalResources UP-TO-DATE
+> Task :Nekopoi:generateReleaseRFile UP-TO-DATE
+> Task :Nekopoi:compileReleaseKotlin UP-TO-DATE
+> Task :Nekopoi:extractReleaseAnnotations
+> Task :Nekopoi:javaPreCompileRelease UP-TO-DATE
+> Task :Nekopoi:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Nekopoi:mergeReleaseGeneratedProguardFiles
+> Task :Nekopoi:mergeReleaseConsumerProguardFiles
+> Task :Nekopoi:mergeReleaseShaders UP-TO-DATE
+> Task :Nekopoi:compileReleaseShaders NO-SOURCE
+> Task :Nekopoi:generateReleaseAssets UP-TO-DATE
+> Task :Nekopoi:packageReleaseAssets UP-TO-DATE
+> Task :Nekopoi:prepareReleaseArtProfile UP-TO-DATE
+> Task :Nekopoi:processReleaseManifest UP-TO-DATE
+> Task :Nekopoi:processReleaseJavaRes
+> Task :Nekopoi:writeReleaseAarMetadata UP-TO-DATE
+> Task :Nekopoi:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Nekopoi:mergeReleaseResources UP-TO-DATE
+> Task :Nekopoi:verifyReleaseResources UP-TO-DATE
+> Task :Nekopoi:mergeReleaseJavaResource
+> Task :Nekopoi:bundleLibRuntimeToJarDebug
+> Task :Nekopoi:syncReleaseLibJars
+> Task :Nekopoi:bundleReleaseAar
+> Task :Nekopoi:assembleRelease
+> Task :Nekopoi:assemble
+> Task :Nekopoi:preDebugUnitTestBuild UP-TO-DATE
+> Task :Nekopoi:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Nekopoi:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Nekopoi:bundleLibCompileToJarDebug
+> Task :Nekopoi:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Nekopoi:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Nekopoi:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Nekopoi:bundleLibRuntimeToJarRelease
+> Task :Nekopoi:testDebugUnitTest NO-SOURCE
+> Task :Nekopoi:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Nekopoi:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Nekopoi:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Neonime:preBuild UP-TO-DATE
+> Task :Neonime:preDebugBuild UP-TO-DATE
+> Task :Nekopoi:bundleLibCompileToJarRelease
+> Task :Neonime:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Nekopoi:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Nekopoi:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Nekopoi:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Nekopoi:testReleaseUnitTest NO-SOURCE
+> Task :Nekopoi:test UP-TO-DATE
+> Task :Nekopoi:check
+> Task :Nekopoi:build
+> Task :Neonime:mergeDebugNativeLibs NO-SOURCE
+> Task :Neonime:stripDebugDebugSymbols NO-SOURCE
+> Task :Neonime:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Neonime:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Neonime:generateDebugResValues UP-TO-DATE
+> Task :Neonime:generateDebugResources UP-TO-DATE
+> Task :Neonime:packageDebugResources UP-TO-DATE
+> Task :Neonime:parseDebugLocalResources UP-TO-DATE
+> Task :Neonime:generateDebugRFile UP-TO-DATE
+> Task :Neonime:compileDebugKotlin UP-TO-DATE
+> Task :Neonime:extractDebugAnnotations
+> Task :Neonime:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Neonime:javaPreCompileDebug UP-TO-DATE
+> Task :Neonime:compileDebugJavaWithJavac NO-SOURCE
+> Task :Neonime:mergeDebugGeneratedProguardFiles
+> Task :Neonime:mergeDebugConsumerProguardFiles
+> Task :Neonime:mergeDebugShaders UP-TO-DATE
+> Task :Neonime:compileDebugShaders NO-SOURCE
+> Task :Neonime:generateDebugAssets UP-TO-DATE
+> Task :Neonime:packageDebugAssets UP-TO-DATE
+> Task :Neonime:prepareDebugArtProfile UP-TO-DATE
+> Task :Neonime:prepareLintJarForPublish UP-TO-DATE
+> Task :Neonime:processDebugManifest UP-TO-DATE
+> Task :Neonime:processDebugJavaRes
+> Task :Neonime:writeDebugAarMetadata UP-TO-DATE
+> Task :Neonime:preReleaseBuild UP-TO-DATE
+> Task :Neonime:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Neonime:mergeReleaseNativeLibs NO-SOURCE
+> Task :Neonime:stripReleaseDebugSymbols NO-SOURCE
+> Task :Neonime:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Neonime:generateReleaseResValues UP-TO-DATE
+> Task :Neonime:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Neonime:generateReleaseResources UP-TO-DATE
+> Task :Neonime:packageReleaseResources UP-TO-DATE
+> Task :Neonime:parseReleaseLocalResources UP-TO-DATE
+> Task :Neonime:mergeDebugJavaResource
+> Task :Neonime:syncDebugLibJars
+> Task :Neonime:bundleDebugAar
+> Task :Neonime:assembleDebug
+> Task :Neonime:generateReleaseRFile UP-TO-DATE
+> Task :Neonime:compileReleaseKotlin UP-TO-DATE
+> Task :Neonime:extractReleaseAnnotations
+> Task :Neonime:javaPreCompileRelease UP-TO-DATE
+> Task :Neonime:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Neonime:mergeReleaseGeneratedProguardFiles
+> Task :Neonime:mergeReleaseConsumerProguardFiles
+> Task :Neonime:mergeReleaseShaders UP-TO-DATE
+> Task :Neonime:compileReleaseShaders NO-SOURCE
+> Task :Neonime:generateReleaseAssets UP-TO-DATE
+> Task :Neonime:packageReleaseAssets UP-TO-DATE
+> Task :Neonime:prepareReleaseArtProfile UP-TO-DATE
+> Task :Neonime:processReleaseManifest UP-TO-DATE
+> Task :Neonime:processReleaseJavaRes
+> Task :Neonime:writeReleaseAarMetadata UP-TO-DATE
+> Task :Neonime:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Neonime:mergeReleaseResources UP-TO-DATE
+> Task :Neonime:verifyReleaseResources UP-TO-DATE
+> Task :Neonime:mergeReleaseJavaResource
+> Task :Neonime:bundleLibRuntimeToJarDebug
+> Task :Neonime:syncReleaseLibJars
+> Task :Neonime:bundleReleaseAar
+> Task :Neonime:assembleRelease
+> Task :Neonime:assemble
+> Task :Neonime:preDebugUnitTestBuild UP-TO-DATE
+> Task :Neonime:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Neonime:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Neonime:bundleLibCompileToJarDebug
+> Task :Neonime:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Neonime:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Neonime:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Neonime:testDebugUnitTest NO-SOURCE
+> Task :Neonime:bundleLibRuntimeToJarRelease
+> Task :Neonime:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Neonime:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Neonime:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Ngefilm:preBuild UP-TO-DATE
+> Task :Ngefilm:preDebugBuild UP-TO-DATE
+> Task :Neonime:bundleLibCompileToJarRelease
+> Task :Ngefilm:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Neonime:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Neonime:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Neonime:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Neonime:testReleaseUnitTest NO-SOURCE
+> Task :Neonime:test UP-TO-DATE
+> Task :Neonime:check
+> Task :Neonime:build
+> Task :Ngefilm:mergeDebugNativeLibs NO-SOURCE
+> Task :Ngefilm:stripDebugDebugSymbols NO-SOURCE
+> Task :Ngefilm:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Ngefilm:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Ngefilm:generateDebugResValues UP-TO-DATE
+> Task :Ngefilm:generateDebugResources UP-TO-DATE
+> Task :Ngefilm:packageDebugResources UP-TO-DATE
+> Task :Ngefilm:parseDebugLocalResources UP-TO-DATE
+> Task :Ngefilm:generateDebugRFile UP-TO-DATE
+> Task :Ngefilm:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Ngefilm:javaPreCompileDebug UP-TO-DATE
+> Task :Ngefilm:mergeDebugShaders UP-TO-DATE
+> Task :Ngefilm:compileDebugShaders NO-SOURCE
+> Task :Ngefilm:generateDebugAssets UP-TO-DATE
+> Task :Ngefilm:packageDebugAssets UP-TO-DATE
+> Task :Ngefilm:prepareDebugArtProfile UP-TO-DATE
+> Task :Ngefilm:prepareLintJarForPublish UP-TO-DATE
+> Task :Ngefilm:processDebugManifest UP-TO-DATE
+> Task :Ngefilm:writeDebugAarMetadata UP-TO-DATE
+> Task :Ngefilm:preReleaseBuild UP-TO-DATE
+> Task :Ngefilm:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Ngefilm:mergeReleaseNativeLibs NO-SOURCE
+> Task :Ngefilm:stripReleaseDebugSymbols NO-SOURCE
+> Task :Ngefilm:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Ngefilm:generateReleaseResValues UP-TO-DATE
+> Task :Ngefilm:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Ngefilm:generateReleaseResources UP-TO-DATE
+> Task :Ngefilm:packageReleaseResources UP-TO-DATE
+> Task :Ngefilm:parseReleaseLocalResources UP-TO-DATE
+> Task :Ngefilm:generateReleaseRFile UP-TO-DATE
+> Task :Ngefilm:javaPreCompileRelease UP-TO-DATE
+> Task :Ngefilm:mergeReleaseShaders UP-TO-DATE
+> Task :Ngefilm:compileReleaseShaders NO-SOURCE
+> Task :Ngefilm:generateReleaseAssets UP-TO-DATE
+> Task :Ngefilm:packageReleaseAssets UP-TO-DATE
+> Task :Ngefilm:prepareReleaseArtProfile UP-TO-DATE
+> Task :Ngefilm:processReleaseManifest UP-TO-DATE
+> Task :Ngefilm:writeReleaseAarMetadata UP-TO-DATE
+> Task :Ngefilm:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Ngefilm:mergeReleaseResources UP-TO-DATE
+> Task :Ngefilm:verifyReleaseResources UP-TO-DATE
+> Task :Ngefilm:preDebugUnitTestBuild UP-TO-DATE
+> Task :Ngefilm:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Ngefilm:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Ngefilm:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Ngefilm:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Ngefilm:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Nimegami:preBuild UP-TO-DATE
+> Task :Nimegami:preDebugBuild UP-TO-DATE
+> Task :Nimegami:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Nimegami:mergeDebugNativeLibs NO-SOURCE
+> Task :Nimegami:stripDebugDebugSymbols NO-SOURCE
+> Task :Nimegami:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nimegami:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Nimegami:generateDebugResValues UP-TO-DATE
+> Task :Nimegami:generateDebugResources UP-TO-DATE
+> Task :Nimegami:packageDebugResources UP-TO-DATE
+> Task :Nimegami:parseDebugLocalResources UP-TO-DATE
+> Task :Nimegami:generateDebugRFile UP-TO-DATE
+> Task :Nimegami:compileDebugKotlin UP-TO-DATE
+> Task :Nimegami:extractDebugAnnotations
+> Task :Nimegami:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Nimegami:javaPreCompileDebug UP-TO-DATE
+> Task :Nimegami:compileDebugJavaWithJavac NO-SOURCE
+> Task :Nimegami:mergeDebugGeneratedProguardFiles
+> Task :Nimegami:mergeDebugConsumerProguardFiles
+> Task :Nimegami:mergeDebugShaders UP-TO-DATE
+> Task :Nimegami:compileDebugShaders NO-SOURCE
+> Task :Nimegami:generateDebugAssets UP-TO-DATE
+> Task :Nimegami:packageDebugAssets UP-TO-DATE
+> Task :Nimegami:prepareDebugArtProfile UP-TO-DATE
+> Task :Nimegami:prepareLintJarForPublish UP-TO-DATE
+> Task :Nimegami:processDebugManifest UP-TO-DATE
+> Task :Nimegami:processDebugJavaRes
+> Task :Nimegami:writeDebugAarMetadata UP-TO-DATE
+> Task :Nimegami:preReleaseBuild UP-TO-DATE
+> Task :Nimegami:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Nimegami:mergeReleaseNativeLibs NO-SOURCE
+> Task :Nimegami:stripReleaseDebugSymbols NO-SOURCE
+> Task :Nimegami:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nimegami:generateReleaseResValues UP-TO-DATE
+> Task :Nimegami:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Nimegami:generateReleaseResources UP-TO-DATE
+> Task :Nimegami:mergeDebugJavaResource
+> Task :Nimegami:packageReleaseResources UP-TO-DATE
+> Task :Nimegami:syncDebugLibJars
+> Task :Nimegami:bundleDebugAar
+> Task :Nimegami:assembleDebug
+> Task :Nimegami:parseReleaseLocalResources UP-TO-DATE
+> Task :Nimegami:generateReleaseRFile UP-TO-DATE
+> Task :Nimegami:compileReleaseKotlin UP-TO-DATE
+> Task :Nimegami:extractReleaseAnnotations
+> Task :Nimegami:javaPreCompileRelease UP-TO-DATE
+> Task :Nimegami:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Nimegami:mergeReleaseGeneratedProguardFiles
+> Task :Nimegami:mergeReleaseConsumerProguardFiles
+> Task :Nimegami:mergeReleaseShaders UP-TO-DATE
+> Task :Nimegami:compileReleaseShaders NO-SOURCE
+> Task :Nimegami:generateReleaseAssets UP-TO-DATE
+> Task :Nimegami:packageReleaseAssets UP-TO-DATE
+> Task :Nimegami:prepareReleaseArtProfile UP-TO-DATE
+> Task :Nimegami:processReleaseManifest UP-TO-DATE
+> Task :Nimegami:processReleaseJavaRes
+> Task :Nimegami:writeReleaseAarMetadata UP-TO-DATE
+> Task :Nimegami:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Nimegami:mergeReleaseResources UP-TO-DATE
+> Task :Nimegami:mergeReleaseJavaResource
+> Task :Nimegami:verifyReleaseResources UP-TO-DATE
+> Task :Nimegami:syncReleaseLibJars
+> Task :Nimegami:bundleReleaseAar
+> Task :Nimegami:assembleRelease
+> Task :Nimegami:assemble
+> Task :Nimegami:preDebugUnitTestBuild UP-TO-DATE
+> Task :Nimegami:bundleLibRuntimeToJarDebug
+> Task :Nimegami:generateDebugUnitTestStubRFile UP-TO-DATE
+> Task :Nimegami:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :Nimegami:bundleLibCompileToJarDebug
+> Task :Nimegami:bundleLibRuntimeToJarRelease
+> Task :Nimegami:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Nimegami:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Nimegami:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Nimegami:testDebugUnitTest NO-SOURCE
+> Task :Nimegami:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Nimegami:bundleLibCompileToJarRelease
+> Task :Nimegami:generateReleaseUnitTestStubRFile UP-TO-DATE
+> Task :Nimegami:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Nimegami:javaPreCompileReleaseUnitTest UP-TO-DATE
+> Task :Nimegami:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Nimegami:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Nimegami:testReleaseUnitTest NO-SOURCE
+> Task :Nimegami:test UP-TO-DATE
+> Task :Nimegami:check
+> Task :Nimegami:build
+> Task :Nodrakorid:preBuild UP-TO-DATE
+> Task :Nodrakorid:preDebugBuild UP-TO-DATE
+> Task :Nodrakorid:mergeDebugJniLibFolders UP-TO-DATE
+> Task :Nodrakorid:mergeDebugNativeLibs NO-SOURCE
+> Task :Nodrakorid:stripDebugDebugSymbols NO-SOURCE
+> Task :Nodrakorid:copyDebugJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nodrakorid:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Nodrakorid:generateDebugResValues UP-TO-DATE
+> Task :Nodrakorid:generateDebugResources UP-TO-DATE
+> Task :Nodrakorid:packageDebugResources UP-TO-DATE
+> Task :Nodrakorid:parseDebugLocalResources UP-TO-DATE
+> Task :Nodrakorid:generateDebugRFile UP-TO-DATE
+> Task :Nodrakorid:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :Nodrakorid:javaPreCompileDebug UP-TO-DATE
+> Task :Nodrakorid:mergeDebugShaders UP-TO-DATE
+> Task :Nodrakorid:compileDebugShaders NO-SOURCE
+> Task :Nodrakorid:generateDebugAssets UP-TO-DATE
+> Task :Nodrakorid:packageDebugAssets UP-TO-DATE
+> Task :Nodrakorid:prepareDebugArtProfile UP-TO-DATE
+> Task :Nodrakorid:prepareLintJarForPublish UP-TO-DATE
+> Task :Nodrakorid:processDebugManifest UP-TO-DATE
+> Task :Nodrakorid:writeDebugAarMetadata UP-TO-DATE
+> Task :Nodrakorid:preReleaseBuild UP-TO-DATE
+> Task :Nodrakorid:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :Nodrakorid:mergeReleaseNativeLibs NO-SOURCE
+> Task :Nodrakorid:stripReleaseDebugSymbols NO-SOURCE
+> Task :Nodrakorid:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :Nodrakorid:generateReleaseResValues UP-TO-DATE
+> Task :Nodrakorid:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :Nodrakorid:generateReleaseResources UP-TO-DATE
+> Task :Nodrakorid:packageReleaseResources UP-TO-DATE
+> Task :Nodrakorid:parseReleaseLocalResources UP-TO-DATE
+> Task :Nodrakorid:generateReleaseRFile UP-TO-DATE
+
+> Task :LayarKaca:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\LayarKaca\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+
+> Task :Nodrakorid:javaPreCompileRelease UP-TO-DATE
+
+> Task :LayarKaca:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\LayarKaca\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+
+> Task :Nodrakorid:mergeReleaseShaders UP-TO-DATE
+> Task :Nodrakorid:compileReleaseShaders NO-SOURCE
+> Task :Nodrakorid:generateReleaseAssets UP-TO-DATE
+> Task :Nodrakorid:packageReleaseAssets UP-TO-DATE
+> Task :Nodrakorid:prepareReleaseArtProfile UP-TO-DATE
+> Task :Nodrakorid:processReleaseManifest UP-TO-DATE
+> Task :Nodrakorid:writeReleaseAarMetadata UP-TO-DATE
+> Task :Nodrakorid:mapReleaseSourceSetPaths UP-TO-DATE
+> Task :Nodrakorid:mergeReleaseResources UP-TO-DATE
+> Task :LayarKaca:extractReleaseAnnotations
+> Task :LayarKaca:extractDebugAnnotations
+> Task :LayarKaca:compileDebugJavaWithJavac NO-SOURCE
+> Task :LayarKaca:mergeDebugGeneratedProguardFiles
+> Task :LayarKaca:mergeDebugConsumerProguardFiles
+> Task :LayarKaca:processDebugJavaRes
+> Task :LayarKaca:compileReleaseJavaWithJavac NO-SOURCE
+> Task :LayarKaca:mergeReleaseGeneratedProguardFiles
+> Task :LayarKaca:mergeDebugJavaResource
+> Task :LayarKaca:mergeReleaseConsumerProguardFiles
+> Task :Nodrakorid:verifyReleaseResources
+> Task :LayarKaca:syncDebugLibJars
+> Task :LayarKaca:bundleDebugAar
+> Task :LayarKaca:assembleDebug
+> Task :LayarKaca:processReleaseJavaRes
+> Task :LayarKaca:mergeReleaseJavaResource
+> Task :LayarKaca:bundleLibRuntimeToJarDebug
+> Task :LayarKaca:bundleLibCompileToJarDebug
+> Task :LayarKaca:syncReleaseLibJars
+> Task :LayarKaca:bundleReleaseAar
+> Task :LayarKaca:assembleRelease
+> Task :LayarKaca:assemble
+> Task :LayarKaca:compileDebugUnitTestKotlin NO-SOURCE
+> Task :LayarKaca:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :LayarKaca:processDebugUnitTestJavaRes NO-SOURCE
+> Task :LayarKaca:testDebugUnitTest NO-SOURCE
+> Task :Nodrakorid:preDebugUnitTestBuild UP-TO-DATE
+> Task :LayarKaca:bundleLibRuntimeToJarRelease
+> Task :LayarKaca:bundleLibCompileToJarRelease
+> Task :Nodrakorid:javaPreCompileDebugUnitTest
+> Task :LayarKaca:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :LayarKaca:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :LayarKaca:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Nodrakorid:generateDebugUnitTestStubRFile
+> Task :LayarKaca:testReleaseUnitTest NO-SOURCE
+> Task :LayarKaca:test UP-TO-DATE
+> Task :LayarKaca:check
+> Task :LayarKaca:build
+> Task :Nodrakorid:preReleaseUnitTestBuild UP-TO-DATE
+> Task :NontonAnimeID:preBuild UP-TO-DATE
+> Task :NontonAnimeID:preDebugBuild UP-TO-DATE
+> Task :Nodrakorid:javaPreCompileReleaseUnitTest
+> Task :Nodrakorid:generateReleaseUnitTestStubRFile
+> Task :NontonAnimeID:mergeDebugJniLibFolders
+> Task :NontonAnimeID:mergeDebugNativeLibs NO-SOURCE
+> Task :NontonAnimeID:stripDebugDebugSymbols NO-SOURCE
+> Task :NontonAnimeID:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :NontonAnimeID:copyDebugJniLibsProjectAndLocalJars
+> Task :NontonAnimeID:generateDebugResValues
+> Task :NontonAnimeID:generateDebugResources
+> Task :NontonAnimeID:packageDebugResources
+> Task :NontonAnimeID:extractDeepLinksForAarDebug
+> Task :NontonAnimeID:parseDebugLocalResources
+> Task :NontonAnimeID:javaPreCompileDebug
+> Task :NontonAnimeID:generateDebugRFile
+> Task :NontonAnimeID:mergeDebugShaders
+> Task :NontonAnimeID:compileDebugShaders NO-SOURCE
+> Task :NontonAnimeID:generateDebugAssets UP-TO-DATE
+> Task :NontonAnimeID:packageDebugAssets
+> Task :NontonAnimeID:prepareDebugArtProfile
+> Task :NontonAnimeID:prepareLintJarForPublish
+> Task :NontonAnimeID:preReleaseBuild UP-TO-DATE
+> Task :NontonAnimeID:writeDebugAarMetadata
+> Task :NontonAnimeID:processDebugManifest
+> Task :NontonAnimeID:mergeReleaseJniLibFolders
+> Task :NontonAnimeID:mergeReleaseNativeLibs NO-SOURCE
+> Task :NontonAnimeID:stripReleaseDebugSymbols NO-SOURCE
+> Task :NontonAnimeID:copyReleaseJniLibsProjectAndLocalJars
+> Task :NontonAnimeID:generateReleaseResValues
+> Task :NontonAnimeID:extractDeepLinksForAarRelease
+> Task :NontonAnimeID:generateReleaseResources
+> Task :NontonAnimeID:packageReleaseResources
+> Task :NontonAnimeID:javaPreCompileRelease
+> Task :NontonAnimeID:parseReleaseLocalResources
+> Task :NontonAnimeID:mergeReleaseShaders
+> Task :NontonAnimeID:compileReleaseShaders NO-SOURCE
+> Task :NontonAnimeID:generateReleaseAssets UP-TO-DATE
+
+> Task :Ngefilm:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Ngefilm\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Ngefilm/src/main/kotlin/com/ngefilm/Extractors.kt:84:41 'constructor(lang: String, url: String): SubtitleFile' is deprecated. Use newSubtitleFile method.
+
+> Task :NontonAnimeID:generateReleaseRFile
+> Task :NontonAnimeID:packageReleaseAssets
+
+> Task :Ngefilm:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Ngefilm\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Ngefilm/src/main/kotlin/com/ngefilm/Extractors.kt:84:41 'constructor(lang: String, url: String): SubtitleFile' is deprecated. Use newSubtitleFile method.
+
+> Task :Ngefilm:extractDebugAnnotations
+> Task :Ngefilm:compileDebugJavaWithJavac NO-SOURCE
+> Task :Ngefilm:mergeDebugGeneratedProguardFiles
+> Task :Ngefilm:mergeDebugConsumerProguardFiles
+> Task :Ngefilm:processDebugJavaRes
+> Task :Ngefilm:mergeDebugJavaResource
+> Task :Ngefilm:extractReleaseAnnotations
+> Task :Ngefilm:syncDebugLibJars
+> Task :Ngefilm:bundleDebugAar
+> Task :Ngefilm:assembleDebug
+> Task :Ngefilm:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Ngefilm:mergeReleaseGeneratedProguardFiles
+> Task :Ngefilm:mergeReleaseConsumerProguardFiles
+> Task :Ngefilm:processReleaseJavaRes
+> Task :Ngefilm:mergeReleaseJavaResource
+> Task :Ngefilm:bundleLibRuntimeToJarDebug
+> Task :Ngefilm:bundleLibCompileToJarDebug
+> Task :Ngefilm:syncReleaseLibJars
+> Task :Ngefilm:bundleReleaseAar
+> Task :Ngefilm:assembleRelease
+> Task :Ngefilm:assemble
+> Task :Ngefilm:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Ngefilm:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Ngefilm:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Ngefilm:testDebugUnitTest NO-SOURCE
+> Task :Ngefilm:bundleLibRuntimeToJarRelease
+> Task :Ngefilm:bundleLibCompileToJarRelease
+> Task :NontonAnimeID:prepareReleaseArtProfile
+> Task :Ngefilm:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Ngefilm:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Ngefilm:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Ngefilm:testReleaseUnitTest NO-SOURCE
+> Task :Ngefilm:test UP-TO-DATE
+> Task :Ngefilm:check
+> Task :Ngefilm:build
+> Task :NontonAnimeID:writeReleaseAarMetadata
+> Task :NontonAnimeID:mapReleaseSourceSetPaths
+> Task :NontonAnimeID:processReleaseManifest
+> Task :NontonAnimeID:mergeReleaseResources
+> Task :NontonAnimeID:preDebugUnitTestBuild UP-TO-DATE
+> Task :NontonAnimeID:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Oploverz:preBuild UP-TO-DATE
+> Task :Oploverz:preDebugBuild UP-TO-DATE
+> Task :NontonAnimeID:javaPreCompileReleaseUnitTest
+> Task :Oploverz:mergeDebugJniLibFolders
+> Task :Oploverz:mergeDebugNativeLibs NO-SOURCE
+> Task :Oploverz:stripDebugDebugSymbols NO-SOURCE
+> Task :NontonAnimeID:javaPreCompileDebugUnitTest
+> Task :Oploverz:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :NontonAnimeID:generateReleaseUnitTestStubRFile
+> Task :Oploverz:copyDebugJniLibsProjectAndLocalJars
+> Task :NontonAnimeID:generateDebugUnitTestStubRFile
+> Task :Oploverz:generateDebugResValues
+> Task :Oploverz:generateDebugResources
+> Task :Oploverz:packageDebugResources
+> Task :Oploverz:parseDebugLocalResources
+> Task :Oploverz:extractDeepLinksForAarDebug
+> Task :Oploverz:javaPreCompileDebug
+> Task :Oploverz:generateDebugRFile
+> Task :Oploverz:mergeDebugShaders
+> Task :Oploverz:compileDebugShaders NO-SOURCE
+> Task :Oploverz:generateDebugAssets UP-TO-DATE
+> Task :Oploverz:packageDebugAssets
+> Task :Oploverz:prepareDebugArtProfile
+> Task :Oploverz:prepareLintJarForPublish
+> Task :Oploverz:preReleaseBuild UP-TO-DATE
+> Task :Oploverz:writeDebugAarMetadata
+> Task :Oploverz:processDebugManifest
+> Task :Oploverz:mergeReleaseJniLibFolders
+> Task :Oploverz:mergeReleaseNativeLibs NO-SOURCE
+> Task :Oploverz:stripReleaseDebugSymbols NO-SOURCE
+> Task :Oploverz:copyReleaseJniLibsProjectAndLocalJars
+> Task :Oploverz:generateReleaseResValues
+> Task :Oploverz:extractDeepLinksForAarRelease
+> Task :Oploverz:generateReleaseResources
+> Task :Oploverz:packageReleaseResources
+> Task :Oploverz:parseReleaseLocalResources
+> Task :Oploverz:javaPreCompileRelease
+> Task :Oploverz:mergeReleaseShaders
+
+> Task :Nodrakorid:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Nodrakorid\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Extractors.kt:84:41 'constructor(lang: String, url: String): SubtitleFile' is deprecated. Use newSubtitleFile method.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:231:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:232:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:236:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:237:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :Oploverz:compileReleaseShaders NO-SOURCE
+> Task :Oploverz:generateReleaseAssets UP-TO-DATE
+> Task :Oploverz:generateReleaseRFile
+> Task :Oploverz:packageReleaseAssets
+
+> Task :Nodrakorid:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Nodrakorid\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Extractors.kt:84:41 'constructor(lang: String, url: String): SubtitleFile' is deprecated. Use newSubtitleFile method.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:231:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:232:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:236:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Nodrakorid/src/main/kotlin/com/nodrakorid/Nodrakorid.kt:237:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :Nodrakorid:extractDebugAnnotations
+> Task :Nodrakorid:compileDebugJavaWithJavac NO-SOURCE
+> Task :Nodrakorid:mergeDebugGeneratedProguardFiles
+> Task :Nodrakorid:mergeDebugConsumerProguardFiles
+> Task :Nodrakorid:processDebugJavaRes
+> Task :Nodrakorid:mergeDebugJavaResource
+> Task :Nodrakorid:extractReleaseAnnotations
+> Task :NontonAnimeID:verifyReleaseResources
+> Task :Nodrakorid:syncDebugLibJars
+> Task :Nodrakorid:bundleDebugAar
+> Task :Nodrakorid:assembleDebug
+> Task :Nodrakorid:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Nodrakorid:mergeReleaseGeneratedProguardFiles
+> Task :Nodrakorid:mergeReleaseConsumerProguardFiles
+> Task :Nodrakorid:processReleaseJavaRes
+> Task :Nodrakorid:mergeReleaseJavaResource
+> Task :Nodrakorid:bundleLibRuntimeToJarDebug
+> Task :Nodrakorid:bundleLibCompileToJarDebug
+> Task :Nodrakorid:syncReleaseLibJars
+> Task :Nodrakorid:bundleReleaseAar
+> Task :Nodrakorid:assembleRelease
+> Task :Nodrakorid:assemble
+> Task :Nodrakorid:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Nodrakorid:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Nodrakorid:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Nodrakorid:testDebugUnitTest NO-SOURCE
+> Task :Nodrakorid:bundleLibRuntimeToJarRelease
+> Task :Nodrakorid:bundleLibCompileToJarRelease
+> Task :Nodrakorid:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Nodrakorid:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Nodrakorid:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Nodrakorid:testReleaseUnitTest NO-SOURCE
+> Task :Nodrakorid:test UP-TO-DATE
+> Task :Nodrakorid:check
+> Task :Nodrakorid:build
+> Task :Oploverz:prepareReleaseArtProfile
+> Task :Oploverz:writeReleaseAarMetadata
+> Task :Oploverz:processReleaseManifest
+> Task :Oploverz:mapReleaseSourceSetPaths
+
+> Task :NontonAnimeID:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\NontonAnimeID\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:54:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:55:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:58:17 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:59:17 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:237:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:238:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:239:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:240:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :NontonAnimeID:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\NontonAnimeID\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:54:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:55:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:58:17 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/Extractors.kt:59:17 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:237:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:238:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:239:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/NontonAnimeID/src/main/kotlin/com/nontonanimeid/NontonAnimeID.kt:240:9 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :Oploverz:mergeReleaseResources
+> Task :NontonAnimeID:extractDebugAnnotations
+> Task :NontonAnimeID:compileDebugJavaWithJavac NO-SOURCE
+> Task :NontonAnimeID:mergeDebugGeneratedProguardFiles
+> Task :NontonAnimeID:mergeDebugConsumerProguardFiles
+> Task :NontonAnimeID:processDebugJavaRes
+> Task :NontonAnimeID:mergeDebugJavaResource
+> Task :NontonAnimeID:extractReleaseAnnotations
+> Task :NontonAnimeID:syncDebugLibJars
+> Task :NontonAnimeID:bundleDebugAar
+> Task :NontonAnimeID:assembleDebug
+> Task :NontonAnimeID:compileReleaseJavaWithJavac NO-SOURCE
+> Task :NontonAnimeID:mergeReleaseGeneratedProguardFiles
+> Task :NontonAnimeID:mergeReleaseConsumerProguardFiles
+> Task :NontonAnimeID:processReleaseJavaRes
+> Task :NontonAnimeID:mergeReleaseJavaResource
+> Task :NontonAnimeID:bundleLibRuntimeToJarDebug
+> Task :NontonAnimeID:bundleLibCompileToJarDebug
+> Task :NontonAnimeID:syncReleaseLibJars
+> Task :NontonAnimeID:bundleReleaseAar
+> Task :NontonAnimeID:assembleRelease
+> Task :NontonAnimeID:assemble
+> Task :NontonAnimeID:compileDebugUnitTestKotlin NO-SOURCE
+> Task :NontonAnimeID:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :NontonAnimeID:processDebugUnitTestJavaRes NO-SOURCE
+> Task :NontonAnimeID:testDebugUnitTest NO-SOURCE
+> Task :NontonAnimeID:bundleLibRuntimeToJarRelease
+> Task :NontonAnimeID:bundleLibCompileToJarRelease
+> Task :NontonAnimeID:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :NontonAnimeID:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :NontonAnimeID:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :NontonAnimeID:testReleaseUnitTest NO-SOURCE
+> Task :NontonAnimeID:test UP-TO-DATE
+> Task :NontonAnimeID:check
+> Task :NontonAnimeID:build
+> Task :Oploverz:preDebugUnitTestBuild UP-TO-DATE
+> Task :Oploverz:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Otakudesu:preBuild UP-TO-DATE
+> Task :Otakudesu:preDebugBuild UP-TO-DATE
+> Task :Oploverz:generateDebugUnitTestStubRFile
+> Task :Oploverz:javaPreCompileDebugUnitTest
+> Task :Oploverz:javaPreCompileReleaseUnitTest
+> Task :Oploverz:generateReleaseUnitTestStubRFile
+> Task :Otakudesu:mergeDebugJniLibFolders
+> Task :Otakudesu:mergeDebugNativeLibs NO-SOURCE
+> Task :Otakudesu:stripDebugDebugSymbols NO-SOURCE
+> Task :Otakudesu:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Otakudesu:copyDebugJniLibsProjectAndLocalJars
+> Task :Otakudesu:generateDebugResValues
+> Task :Otakudesu:generateDebugResources
+> Task :Otakudesu:packageDebugResources
+> Task :Otakudesu:extractDeepLinksForAarDebug
+> Task :Otakudesu:parseDebugLocalResources
+> Task :Otakudesu:javaPreCompileDebug
+> Task :Otakudesu:generateDebugRFile
+> Task :Otakudesu:mergeDebugShaders
+> Task :Otakudesu:compileDebugShaders NO-SOURCE
+> Task :Otakudesu:generateDebugAssets UP-TO-DATE
+
+> Task :Oploverz:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Oploverz\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+
+> Task :Otakudesu:packageDebugAssets
+> Task :Oploverz:extractDebugAnnotations
+> Task :Oploverz:compileDebugJavaWithJavac NO-SOURCE
+> Task :Oploverz:mergeDebugGeneratedProguardFiles
+> Task :Oploverz:mergeDebugConsumerProguardFiles
+> Task :Oploverz:processDebugJavaRes
+> Task :Oploverz:mergeDebugJavaResource
+> Task :Oploverz:bundleLibRuntimeToJarDebug
+> Task :Oploverz:bundleLibCompileToJarDebug
+> Task :Oploverz:syncDebugLibJars
+> Task :Oploverz:bundleDebugAar
+> Task :Oploverz:assembleDebug
+> Task :Oploverz:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Oploverz:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Oploverz:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Oploverz:testDebugUnitTest NO-SOURCE
+> Task :Otakudesu:prepareDebugArtProfile
+> Task :Otakudesu:prepareLintJarForPublish
+> Task :Otakudesu:preReleaseBuild UP-TO-DATE
+> Task :Otakudesu:writeDebugAarMetadata
+> Task :Otakudesu:processDebugManifest
+> Task :Otakudesu:mergeReleaseJniLibFolders
+> Task :Otakudesu:mergeReleaseNativeLibs NO-SOURCE
+> Task :Otakudesu:stripReleaseDebugSymbols NO-SOURCE
+> Task :Otakudesu:copyReleaseJniLibsProjectAndLocalJars
+> Task :Otakudesu:generateReleaseResValues
+> Task :Otakudesu:extractDeepLinksForAarRelease
+> Task :Otakudesu:generateReleaseResources
+> Task :Otakudesu:packageReleaseResources
+> Task :Otakudesu:parseReleaseLocalResources
+> Task :Otakudesu:javaPreCompileRelease
+> Task :Otakudesu:mergeReleaseShaders
+> Task :Otakudesu:compileReleaseShaders NO-SOURCE
+> Task :Otakudesu:generateReleaseAssets UP-TO-DATE
+> Task :Oploverz:verifyReleaseResources
+> Task :Otakudesu:generateReleaseRFile
+> Task :Otakudesu:packageReleaseAssets
+> Task :Otakudesu:prepareReleaseArtProfile
+> Task :Otakudesu:writeReleaseAarMetadata
+> Task :Otakudesu:mapReleaseSourceSetPaths
+> Task :Otakudesu:processReleaseManifest
+
+> Task :Oploverz:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Oploverz\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+
+> Task :Otakudesu:mergeReleaseResources
+> Task :Oploverz:extractReleaseAnnotations
+> Task :Oploverz:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Oploverz:mergeReleaseGeneratedProguardFiles
+> Task :Oploverz:mergeReleaseConsumerProguardFiles
+> Task :Oploverz:processReleaseJavaRes
+> Task :Oploverz:mergeReleaseJavaResource
+> Task :Oploverz:bundleLibRuntimeToJarRelease
+> Task :Oploverz:bundleLibCompileToJarRelease
+> Task :Oploverz:syncReleaseLibJars
+> Task :Oploverz:bundleReleaseAar
+> Task :Oploverz:assembleRelease
+> Task :Oploverz:assemble
+> Task :Oploverz:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Oploverz:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Oploverz:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Oploverz:testReleaseUnitTest NO-SOURCE
+> Task :Oploverz:test UP-TO-DATE
+> Task :Oploverz:check
+> Task :Oploverz:build
+> Task :Otakudesu:preDebugUnitTestBuild UP-TO-DATE
+> Task :Otakudesu:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Otakudesu:javaPreCompileDebugUnitTest
+> Task :Otakudesu:generateDebugUnitTestStubRFile
+> Task :Pencurimovie:preBuild UP-TO-DATE
+> Task :Pencurimovie:preDebugBuild UP-TO-DATE
+> Task :Otakudesu:javaPreCompileReleaseUnitTest
+> Task :Otakudesu:generateReleaseUnitTestStubRFile
+> Task :Pencurimovie:mergeDebugJniLibFolders
+> Task :Pencurimovie:mergeDebugNativeLibs NO-SOURCE
+> Task :Pencurimovie:stripDebugDebugSymbols NO-SOURCE
+> Task :Pencurimovie:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Pencurimovie:copyDebugJniLibsProjectAndLocalJars
+> Task :Pencurimovie:generateDebugResValues
+> Task :Pencurimovie:generateDebugResources
+> Task :Pencurimovie:packageDebugResources
+> Task :Pencurimovie:extractDeepLinksForAarDebug
+> Task :Pencurimovie:parseDebugLocalResources
+> Task :Pencurimovie:javaPreCompileDebug
+> Task :Pencurimovie:generateDebugRFile
+> Task :Pencurimovie:mergeDebugShaders
+> Task :Pencurimovie:compileDebugShaders NO-SOURCE
+> Task :Pencurimovie:generateDebugAssets UP-TO-DATE
+> Task :Pencurimovie:packageDebugAssets
+> Task :Pencurimovie:prepareDebugArtProfile
+> Task :Pencurimovie:prepareLintJarForPublish
+> Task :Pencurimovie:preReleaseBuild UP-TO-DATE
+> Task :Pencurimovie:writeDebugAarMetadata
+> Task :Pencurimovie:processDebugManifest
+> Task :Pencurimovie:mergeReleaseJniLibFolders
+> Task :Pencurimovie:mergeReleaseNativeLibs NO-SOURCE
+> Task :Pencurimovie:stripReleaseDebugSymbols NO-SOURCE
+> Task :Pencurimovie:copyReleaseJniLibsProjectAndLocalJars
+> Task :Pencurimovie:generateReleaseResValues
+> Task :Pencurimovie:extractDeepLinksForAarRelease
+> Task :Pencurimovie:generateReleaseResources
+> Task :Pencurimovie:packageReleaseResources
+> Task :Pencurimovie:parseReleaseLocalResources
+> Task :Pencurimovie:javaPreCompileRelease
+> Task :Pencurimovie:generateReleaseRFile
+> Task :Pencurimovie:mergeReleaseShaders
+> Task :Pencurimovie:compileReleaseShaders NO-SOURCE
+> Task :Pencurimovie:generateReleaseAssets UP-TO-DATE
+> Task :Pencurimovie:packageReleaseAssets
+> Task :Pencurimovie:prepareReleaseArtProfile
+
+> Task :Otakudesu:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Otakudesu\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:166:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:167:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:168:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:171:29 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :Otakudesu:verifyReleaseResources
+> Task :Pencurimovie:writeReleaseAarMetadata
+> Task :Pencurimovie:processReleaseManifest
+> Task :Otakudesu:extractDebugAnnotations
+> Task :Otakudesu:compileDebugJavaWithJavac NO-SOURCE
+> Task :Otakudesu:mergeDebugGeneratedProguardFiles
+> Task :Otakudesu:mergeDebugConsumerProguardFiles
+> Task :Otakudesu:processDebugJavaRes
+> Task :Otakudesu:mergeDebugJavaResource
+> Task :Otakudesu:bundleLibRuntimeToJarDebug
+> Task :Otakudesu:bundleLibCompileToJarDebug
+> Task :Otakudesu:syncDebugLibJars
+> Task :Otakudesu:bundleDebugAar
+> Task :Otakudesu:assembleDebug
+> Task :Otakudesu:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Otakudesu:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Otakudesu:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Otakudesu:testDebugUnitTest NO-SOURCE
+> Task :Pencurimovie:mapReleaseSourceSetPaths
+
+> Task :Otakudesu:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Otakudesu\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:166:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:167:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:168:13 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+w: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Otakudesu/src/main/kotlin/com/otakudesu/Otakudesu.kt:171:29 This annotation is currently applied to the value parameter only, but in the future it will also be applied to field.
+- To opt in to applying to both value parameter and field, add '-Xannotation-default-target=param-property' to your compiler arguments.
+- To keep applying to the value parameter only, use the '@param:' annotation target.
+
+See https://youtrack.jetbrains.com/issue/KT-73255 for more details.
+
+> Task :Pencurimovie:mergeReleaseResources
+> Task :Otakudesu:extractReleaseAnnotations
+> Task :Otakudesu:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Otakudesu:mergeReleaseGeneratedProguardFiles
+> Task :Otakudesu:mergeReleaseConsumerProguardFiles
+> Task :Otakudesu:processReleaseJavaRes
+> Task :Otakudesu:mergeReleaseJavaResource
+> Task :Otakudesu:bundleLibRuntimeToJarRelease
+> Task :Otakudesu:bundleLibCompileToJarRelease
+> Task :Otakudesu:syncReleaseLibJars
+> Task :Otakudesu:bundleReleaseAar
+> Task :Otakudesu:assembleRelease
+> Task :Otakudesu:assemble
+> Task :Otakudesu:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Otakudesu:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Otakudesu:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Otakudesu:testReleaseUnitTest NO-SOURCE
+> Task :Otakudesu:test UP-TO-DATE
+> Task :Otakudesu:check
+> Task :Otakudesu:build
+> Task :Pencurimovie:preDebugUnitTestBuild UP-TO-DATE
+> Task :Pencurimovie:preReleaseUnitTestBuild UP-TO-DATE
+> Task :Pusatfilm:preBuild UP-TO-DATE
+> Task :Pusatfilm:preDebugBuild UP-TO-DATE
+> Task :Pencurimovie:javaPreCompileDebugUnitTest
+> Task :Pencurimovie:javaPreCompileReleaseUnitTest
+> Task :Pencurimovie:generateDebugUnitTestStubRFile
+> Task :Pusatfilm:mergeDebugJniLibFolders
+> Task :Pencurimovie:generateReleaseUnitTestStubRFile
+> Task :Pusatfilm:mergeDebugNativeLibs NO-SOURCE
+> Task :Pusatfilm:stripDebugDebugSymbols NO-SOURCE
+> Task :Pusatfilm:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :Pusatfilm:copyDebugJniLibsProjectAndLocalJars
+> Task :Pusatfilm:generateDebugResValues
+> Task :Pusatfilm:generateDebugResources
+> Task :Pusatfilm:packageDebugResources
+
+> Task :Pencurimovie:compileDebugKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Pencurimovie\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+
+> Task :Pencurimovie:compileReleaseKotlin
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Pencurimovie\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+
+> Task :Pusatfilm:parseDebugLocalResources
+> Task :Pusatfilm:extractDeepLinksForAarDebug
+> Task :Pencurimovie:extractDebugAnnotations
+> Task :Pencurimovie:compileDebugJavaWithJavac NO-SOURCE
+> Task :Pencurimovie:mergeDebugGeneratedProguardFiles
+> Task :Pencurimovie:mergeDebugConsumerProguardFiles
+> Task :Pencurimovie:processDebugJavaRes
+> Task :Pencurimovie:mergeDebugJavaResource
+> Task :Pencurimovie:extractReleaseAnnotations
+> Task :Pencurimovie:syncDebugLibJars
+> Task :Pencurimovie:bundleDebugAar
+> Task :Pencurimovie:assembleDebug
+> Task :Pencurimovie:compileReleaseJavaWithJavac NO-SOURCE
+> Task :Pencurimovie:mergeReleaseGeneratedProguardFiles
+> Task :Pencurimovie:mergeReleaseConsumerProguardFiles
+> Task :Pencurimovie:processReleaseJavaRes
+> Task :Pencurimovie:mergeReleaseJavaResource
+> Task :Pencurimovie:bundleLibRuntimeToJarDebug
+> Task :Pencurimovie:bundleLibCompileToJarDebug
+> Task :Pencurimovie:bundleLibRuntimeToJarRelease
+> Task :Pencurimovie:syncReleaseLibJars
+> Task :Pencurimovie:bundleReleaseAar
+> Task :Pencurimovie:compileDebugUnitTestKotlin NO-SOURCE
+> Task :Pencurimovie:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :Pencurimovie:processDebugUnitTestJavaRes NO-SOURCE
+> Task :Pencurimovie:testDebugUnitTest NO-SOURCE
+> Task :Pencurimovie:bundleLibCompileToJarRelease
+> Task :Pencurimovie:compileReleaseUnitTestKotlin NO-SOURCE
+> Task :Pencurimovie:compileReleaseUnitTestJavaWithJavac NO-SOURCE
+> Task :Pencurimovie:processReleaseUnitTestJavaRes NO-SOURCE
+> Task :Pencurimovie:testReleaseUnitTest NO-SOURCE
+> Task :Pusatfilm:generateDebugRFile
+> Task :Pencurimovie:test UP-TO-DATE
+> Task :Pencurimovie:check
+> Task :Pusatfilm:javaPreCompileDebug
+> Task :Pusatfilm:mergeDebugShaders
+> Task :Pusatfilm:compileDebugShaders NO-SOURCE
+> Task :Pusatfilm:generateDebugAssets UP-TO-DATE
+> Task :Pusatfilm:packageDebugAssets
+> Task :Pusatfilm:prepareDebugArtProfile
+> Task :Pencurimovie:verifyReleaseResources
+> Task :Pencurimovie:assembleRelease
+> Task :Pencurimovie:assemble
+> Task :Pencurimovie:build
+> Task :Pusatfilm:prepareLintJarForPublish
+> Task :Pusatfilm:preReleaseBuild UP-TO-DATE
+> Task :Pusatfilm:writeDebugAarMetadata
+> Task :Pusatfilm:processDebugManifest
+> Task :Pusatfilm:mergeReleaseJniLibFolders
+> Task :Pusatfilm:mergeReleaseNativeLibs NO-SOURCE
+> Task :Pusatfilm:stripReleaseDebugSymbols NO-SOURCE
+> Task :Pusatfilm:copyReleaseJniLibsProjectAndLocalJars
+> Task :Pusatfilm:generateReleaseResValues
+> Task :Pusatfilm:extractDeepLinksForAarRelease
+> Task :Pusatfilm:generateReleaseResources
+> Task :Pusatfilm:packageReleaseResources
+> Task :Pusatfilm:parseReleaseLocalResources
+> Task :Pusatfilm:javaPreCompileRelease
+> Task :Pusatfilm:mergeReleaseShaders
+> Task :Pusatfilm:compileReleaseShaders NO-SOURCE
+> Task :Pusatfilm:generateReleaseAssets UP-TO-DATE
+> Task :Pusatfilm:generateReleaseRFile
+> Task :Pusatfilm:packageReleaseAssets
+> Task :Pusatfilm:prepareReleaseArtProfile
+> Task :Pusatfilm:writeReleaseAarMetadata
+> Task :Pusatfilm:mapReleaseSourceSetPaths
+> Task :Pusatfilm:processReleaseManifest
+
+> Task :Pusatfilm:compileDebugKotlin FAILED
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Pusatfilm\build\intermediates\compile_r_class_jar\debug\generateDebugRFile\R.jar
+e: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Pusatfilm/src/main/kotlin/com/pusatfilm/Extractors.kt:22:84 'fun <A, B> List<A>.apmap(f: suspend (A) -> B): List<B>' is deprecated. This blocks with runBlocking, and should not be used inside a suspended context.
+
+> Task :Pusatfilm:compileReleaseKotlin FAILED
+w: Classpath entry points to a non-existent location: C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl
+w: Classpath entry points to a non-existent location: fjas\IndoStream\Pusatfilm\build\intermediates\compile_r_class_jar\release\generateReleaseRFile\R.jar
+e: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/Pusatfilm/src/main/kotlin/com/pusatfilm/Extractors.kt:22:84 'fun <A, B> List<A>.apmap(f: suspend (A) -> B): List<B>' is deprecated. This blocks with runBlocking, and should not be used inside a suspended context.
+
+> Task :Pusatfilm:mergeReleaseResources
+
+[Incubating] Problems report is available at: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/build/reports/problems/problems-report.html
+
+FAILURE: Build completed with 2 failures.
+
+1: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':Pusatfilm:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+2: Task failed with an exception.
+-----------
+* What went wrong:
+Execution failed for task ':Pusatfilm:compileReleaseKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+==============================================================================
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 28s
+1377 actionable tasks: 394 executed, 983 up-to-date

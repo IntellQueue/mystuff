@@ -1,0 +1,192 @@
+Initialized native services in: C:\Users\HP\.gradle\native
+Initialized jansi services in: C:\Users\HP\.gradle\native
+The client will now receive all logging from the daemon (pid: 21332). The daemon log file: C:\Users\HP\.gradle\daemon\9.3.1\daemon-21332.out.log
+Starting 9th build in daemon [uptime: 59 mins 47.069 secs, performance: 99%, GC rate: 0.00/s, heap usage: 0% of 2 GiB]
+Using 20 worker leases.
+Operational build model parameters: {requiresToolingModels=false, parallelProjectExecution=false, configureOnDemand=false, configurationCache=false, configurationCacheParallelStore=false, configurationCacheParallelLoad=true, isolatedProjects=false, parallelProjectConfiguration=false, intermediateModelCache=false, parallelToolingApiActions=false, invalidateCoupledProjects=false, modelAsProjectDependency=false, resilientModelBuilding=false}
+Now considering [C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream] as hierarchies to watch
+Watching the file system is configured to be enabled if available
+File system watching is active
+Starting Build
+Settings evaluated using settings file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\settings.gradle.kts'.
+Projects loaded. Root project using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\build.gradle.kts'.
+Included projects: [root project 'CloudstreamPlugins', project ':Animasu', project ':AnimeIndo', project ':AnimeSail', project ':Anoboy', project ':Dramaid', project ':DramaSerial', project ':Dubbindo', project ':Dutamovie', project ':Funmovieslix', project ':Gomov', project ':Gomunime', project ':Idlix', project ':IndoTV', project ':Kuramanime', project ':Kuronime', project ':LayarKaca', project ':Minioppai', project ':Nekopoi', project ':Neonime', project ':Ngefilm', project ':Nimegami', project ':Nodrakorid', project ':NontonAnimeID', project ':Oploverz', project ':Otakudesu', project ':Pencurimovie', project ':Pusatfilm', project ':Raveeflix', project ':Rebahin', project ':Samehadaku']
+
+> Configure project :
+Evaluating root project 'CloudstreamPlugins' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\build.gradle.kts'.
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+Using default execution profile
+Using Kotlin Gradle Plugin gradle85 variant
+
+> Configure project :Animasu
+Evaluating project ':Animasu' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Animasu\build.gradle.kts'.
+
+> Configure project :AnimeIndo
+Evaluating project ':AnimeIndo' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\AnimeIndo\build.gradle.kts'.
+
+> Configure project :AnimeSail
+Evaluating project ':AnimeSail' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\AnimeSail\build.gradle.kts'.
+
+> Configure project :Anoboy
+Evaluating project ':Anoboy' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Anoboy\build.gradle.kts'.
+
+> Configure project :Dramaid
+Evaluating project ':Dramaid' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Dramaid\build.gradle.kts'.
+
+> Configure project :DramaSerial
+Evaluating project ':DramaSerial' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\DramaSerial\build.gradle.kts'.
+
+> Configure project :Dubbindo
+Evaluating project ':Dubbindo' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Dubbindo\build.gradle.kts'.
+
+> Configure project :Dutamovie
+Evaluating project ':Dutamovie' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Dutamovie\build.gradle.kts'.
+
+> Configure project :Funmovieslix
+Evaluating project ':Funmovieslix' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Funmovieslix\build.gradle.kts'.
+
+> Configure project :Gomov
+Evaluating project ':Gomov' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Gomov\build.gradle.kts'.
+
+> Configure project :Gomunime
+Evaluating project ':Gomunime' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Gomunime\build.gradle.kts'.
+
+> Configure project :Idlix
+Evaluating project ':Idlix' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Idlix\build.gradle.kts'.
+
+> Configure project :IndoTV
+Evaluating project ':IndoTV' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\IndoTV\build.gradle.kts'.
+
+> Configure project :Kuramanime
+Evaluating project ':Kuramanime' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Kuramanime\build.gradle.kts'.
+
+> Configure project :Kuronime
+Evaluating project ':Kuronime' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Kuronime\build.gradle.kts'.
+
+> Configure project :LayarKaca
+Evaluating project ':LayarKaca' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\LayarKaca\build.gradle.kts'.
+
+> Configure project :Minioppai
+Evaluating project ':Minioppai' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Minioppai\build.gradle.kts'.
+
+> Configure project :Nekopoi
+Evaluating project ':Nekopoi' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Nekopoi\build.gradle.kts'.
+
+> Configure project :Neonime
+Evaluating project ':Neonime' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Neonime\build.gradle.kts'.
+
+> Configure project :Ngefilm
+Evaluating project ':Ngefilm' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Ngefilm\build.gradle.kts'.
+
+> Configure project :Nimegami
+Evaluating project ':Nimegami' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Nimegami\build.gradle.kts'.
+
+> Configure project :Nodrakorid
+Evaluating project ':Nodrakorid' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Nodrakorid\build.gradle.kts'.
+
+> Configure project :NontonAnimeID
+Evaluating project ':NontonAnimeID' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\NontonAnimeID\build.gradle.kts'.
+
+> Configure project :Oploverz
+Evaluating project ':Oploverz' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Oploverz\build.gradle.kts'.
+
+> Configure project :Otakudesu
+Evaluating project ':Otakudesu' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Otakudesu\build.gradle.kts'.
+
+> Configure project :Pencurimovie
+Evaluating project ':Pencurimovie' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Pencurimovie\build.gradle.kts'.
+
+> Configure project :Pusatfilm
+Evaluating project ':Pusatfilm' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Pusatfilm\build.gradle.kts'.
+
+> Configure project :Raveeflix
+Evaluating project ':Raveeflix' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Raveeflix\build.gradle.kts'.
+
+> Configure project :Rebahin
+Evaluating project ':Rebahin' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Rebahin\build.gradle.kts'.
+
+> Configure project :Samehadaku
+Evaluating project ':Samehadaku' using build file 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\Samehadaku\build.gradle.kts'.
+All projects evaluated.
+Task name matched 'build'
+Selected primary task 'build' from project :
+
+[Incubating] Problems report is available at: file:///C:/Users/HP/Downloads/somewhere/adsjfkladklfjadsl;fjas/IndoStream/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Could not determine the dependencies of task ':Animasu:extractDebugAnnotations'.
+> SDK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at 'C:\Users\HP\Downloads\somewhere\adsjfkladklfjadsl;fjas\IndoStream\local.properties'.
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.3.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 3s
+Watched directory hierarchies: []

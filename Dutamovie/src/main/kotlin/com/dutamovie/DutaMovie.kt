@@ -16,7 +16,7 @@ import org.jsoup.nodes.Element
 
 class DutaMovie : MainAPI() {
 
-    override var mainUrl = "https://tuggycomputer.com/"
+    override var mainUrl = "https://revolutionaryleft.com"
     private var directUrl: String? = null
     override var name = "DutaMovie"
     override val hasMainPage = true
@@ -41,11 +41,11 @@ class DutaMovie : MainAPI() {
     }
 
     private fun Element.toSearchResult(): SearchResponse? {
-        val title = this.selectFirst("h2.entry-title > a")?.text()?.trim() ?: return null
+        val title = this.selectFirst("h2.entry-title > a, h2 a")?.text()?.trim() ?: return null
         val href = fixUrl(this.selectFirst("a")!!.attr("href"))
         val posterUrl = fixUrlNull(this.selectFirst("a > img")?.getImageAttr()).fixImageQuality()
         val quality =
-                this.select("div.gmr-qual, div.gmr-quality-item > a").text().trim().replace("-", "")
+                this.select("div.gmr-qual, div.gmr-quality-item > a, .quality").text().trim().replace("-", "")
         return if (quality.isEmpty()) {
             val episode =
                     Regex("Episode\\s?([0-9]+)")
@@ -87,7 +87,7 @@ class DutaMovie : MainAPI() {
         val document = fetch.document
 
         val title =
-                document.selectFirst("h1.entry-title")
+                document.selectFirst("h1.entry-title, h1")
                         ?.text()
                         ?.substringBefore("Season")
                         ?.substringBefore("Episode")
@@ -105,10 +105,10 @@ class DutaMovie : MainAPI() {
                         .trim()
                         .toIntOrNull()
         val tvType = if (url.contains("/tv/")) TvType.TvSeries else TvType.Movie
-        val description = document.selectFirst("div[itemprop=description] > p")?.text()?.trim()
+        val description = document.selectFirst("div[itemprop=description] > p, .entry-content p")?.text()?.trim()
         val trailer = document.selectFirst("ul.gmr-player-nav li a.gmr-trailer-popup")?.attr("href")
         val rating =
-                document.selectFirst("div.gmr-meta-rating > span[itemprop=ratingValue]")
+                document.selectFirst("div.gmr-meta-rating > span[itemprop=ratingValue], .rating")
                         ?.text()?.trim()
         val actors =
                 document.select("div.gmr-moviedata").last()?.select("span[itemprop=actors]")?.map {

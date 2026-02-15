@@ -1,4 +1,7 @@
+@file:OptIn(ApiForPrerelease::class)
 package com.funmovieslix
+
+import com.lagradost.cloudstream3.*
 
 import com.lagradost.api.Log
 import com.lagradost.cloudstream3.SubtitleFile
